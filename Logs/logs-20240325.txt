@@ -1,0 +1,1422 @@
+2024-03-25 09:10:20.416 +02:00 [INF] Now listening on: http://localhost:5000
+2024-03-25 09:10:20.536 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-25 09:10:20.545 +02:00 [INF] Hosting environment: Development
+2024-03-25 09:10:20.547 +02:00 [INF] Content root path: C:\Users\Gorent\source\repos\Andile BE\
+2024-03-25 09:11:07.710 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/product application/json 128
+2024-03-25 09:11:07.780 +02:00 [INF] HTTP POST /product responded 307 in 6.2176 ms
+2024-03-25 09:11:07.797 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/product application/json 128 - 307 0 - 92.3462ms
+2024-03-25 09:11:43.174 +02:00 [INF] Now listening on: https://localhost:5000
+2024-03-25 09:11:43.281 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-25 09:11:43.285 +02:00 [INF] Hosting environment: Development
+2024-03-25 09:11:43.288 +02:00 [INF] Content root path: C:\Users\Gorent\source\repos\Andile BE\
+2024-03-25 09:12:06.433 +02:00 [INF] Now listening on: http://localhost:5000
+2024-03-25 09:12:06.563 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-25 09:12:06.568 +02:00 [INF] Hosting environment: Development
+2024-03-25 09:12:06.573 +02:00 [INF] Content root path: C:\Users\Gorent\source\repos\Andile BE\
+2024-03-25 09:15:59.220 +02:00 [INF] Now listening on: http://localhost:5000
+2024-03-25 09:15:59.329 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-25 09:15:59.334 +02:00 [INF] Hosting environment: Development
+2024-03-25 09:15:59.337 +02:00 [INF] Content root path: C:\Users\Gorent\source\repos\Andile BE\
+2024-03-25 09:16:32.671 +02:00 [INF] Now listening on: http://localhost:5000
+2024-03-25 09:16:32.846 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-25 09:16:32.862 +02:00 [INF] Hosting environment: Development
+2024-03-25 09:16:32.865 +02:00 [INF] Content root path: C:\Users\Gorent\source\repos\Andile BE\
+2024-03-25 09:17:17.027 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/product application/json 128
+2024-03-25 09:17:17.098 +02:00 [INF] HTTP POST /product responded 307 in 4.6412 ms
+2024-03-25 09:17:17.119 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/product application/json 128 - 307 0 - 97.2866ms
+2024-03-25 09:17:18.820 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/product application/json 128
+2024-03-25 09:17:18.825 +02:00 [INF] HTTP POST /product responded 307 in 0.1145 ms
+2024-03-25 09:17:18.830 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/product application/json 128 - 307 0 - 9.1465ms
+2024-03-25 09:17:40.222 +02:00 [INF] Now listening on: https://localhost:7211
+2024-03-25 09:17:40.296 +02:00 [INF] Now listening on: http://localhost:5063
+2024-03-25 09:17:40.306 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-25 09:17:40.309 +02:00 [INF] Hosting environment: Development
+2024-03-25 09:17:40.311 +02:00 [INF] Content root path: C:\Users\Gorent\source\repos\Andile BE\
+2024-03-25 09:17:40.959 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7211/swagger/index.html - -
+2024-03-25 09:17:41.762 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7211/_framework/aspnetcore-browser-refresh.js - -
+2024-03-25 09:17:41.762 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7211/_vs/browserLink - -
+2024-03-25 09:17:41.773 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7211/swagger/index.html - - - 200 - text/html;charset=utf-8 819.0943ms
+2024-03-25 09:17:41.783 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7211/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 20.9317ms
+2024-03-25 09:17:41.880 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7211/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 118.3296ms
+2024-03-25 09:17:42.015 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7211/swagger/v1/swagger.json - -
+2024-03-25 09:17:42.316 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7211/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 300.4699ms
+2024-03-25 09:18:34.558 +02:00 [INF] Now listening on: https://localhost:5000
+2024-03-25 09:18:34.634 +02:00 [INF] Now listening on: http://localhost:5063
+2024-03-25 09:18:34.644 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-25 09:18:34.647 +02:00 [INF] Hosting environment: Development
+2024-03-25 09:18:34.648 +02:00 [INF] Content root path: C:\Users\Gorent\source\repos\Andile BE\
+2024-03-25 09:18:34.899 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5000/swagger - -
+2024-03-25 09:18:35.065 +02:00 [INF] Request finished HTTP/2 GET https://localhost:5000/swagger - - - 301 0 - 170.7261ms
+2024-03-25 09:18:35.070 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5000/swagger/index.html - -
+2024-03-25 09:18:35.539 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5000/swagger/swagger-ui-bundle.js - -
+2024-03-25 09:18:35.539 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5000/swagger/swagger-ui-standalone-preset.js - -
+2024-03-25 09:18:35.540 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+2024-03-25 09:18:35.539 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+2024-03-25 09:18:35.541 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5000/swagger/swagger-ui.css - -
+2024-03-25 09:18:35.548 +02:00 [INF] Request finished HTTP/2 GET https://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 477.8610ms
+2024-03-25 09:18:35.561 +02:00 [INF] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 21.8152ms
+2024-03-25 09:18:35.657 +02:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-03-25 09:18:35.672 +02:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-03-25 09:18:35.674 +02:00 [INF] Request finished HTTP/2 GET https://localhost:5000/swagger/swagger-ui.css - - - 200 144929 text/css 133.1153ms
+2024-03-25 09:18:35.695 +02:00 [INF] Request finished HTTP/2 GET https://localhost:5000/swagger/swagger-ui-standalone-preset.js - - - 200 312163 application/javascript 155.6182ms
+2024-03-25 09:18:35.697 +02:00 [INF] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 156.7516ms
+2024-03-25 09:18:35.722 +02:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-03-25 09:18:35.725 +02:00 [INF] Request finished HTTP/2 GET https://localhost:5000/swagger/swagger-ui-bundle.js - - - 200 1061536 application/javascript 186.2595ms
+2024-03-25 09:18:35.909 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5000/swagger/v1/swagger.json - -
+2024-03-25 09:18:35.944 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5000/swagger/favicon-32x32.png - -
+2024-03-25 09:18:35.947 +02:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-03-25 09:18:35.953 +02:00 [INF] Request finished HTTP/2 GET https://localhost:5000/swagger/favicon-32x32.png - - - 200 628 image/png 8.6665ms
+2024-03-25 09:18:36.123 +02:00 [INF] Request finished HTTP/2 GET https://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 214.5860ms
+2024-03-25 09:19:11.722 +02:00 [INF] Request starting HTTP/1.1 POST https://localhost:5000/product application/json 128
+2024-03-25 09:19:11.731 +02:00 [INF] HTTP POST /product responded 404 in 2.6798 ms
+2024-03-25 09:19:11.745 +02:00 [INF] Request finished HTTP/1.1 POST https://localhost:5000/product application/json 128 - 404 0 - 22.8425ms
+2024-03-25 09:19:39.825 +02:00 [INF] Request starting HTTP/1.1 POST https://localhost:5000/swagger/index.html/product application/json 128
+2024-03-25 09:19:39.826 +02:00 [INF] HTTP POST /swagger/index.html/product responded 404 in 0.1425 ms
+2024-03-25 09:19:39.829 +02:00 [INF] Request finished HTTP/1.1 POST https://localhost:5000/swagger/index.html/product application/json 128 - 404 0 - 3.9372ms
+2024-03-25 09:20:22.736 +02:00 [INF] Request starting HTTP/1.1 POST https://localhost:5000/api/product application/json 128
+2024-03-25 09:20:22.745 +02:00 [INF] HTTP POST /api/product responded 404 in 0.0206 ms
+2024-03-25 09:20:22.748 +02:00 [INF] Request finished HTTP/1.1 POST https://localhost:5000/api/product application/json 128 - 404 0 - 11.9075ms
+2024-03-25 09:20:27.837 +02:00 [INF] Request starting HTTP/1.1 POST https://localhost:5000/api/product application/json 128
+2024-03-25 09:20:27.840 +02:00 [INF] HTTP POST /api/product responded 404 in 0.0257 ms
+2024-03-25 09:20:27.841 +02:00 [INF] Request finished HTTP/1.1 POST https://localhost:5000/api/product application/json 128 - 404 0 - 3.4575ms
+2024-03-25 09:24:57.008 +02:00 [INF] Now listening on: http://localhost:5000
+2024-03-25 09:24:57.073 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-25 09:24:57.076 +02:00 [INF] Hosting environment: Development
+2024-03-25 09:24:57.077 +02:00 [INF] Content root path: C:\Users\Gorent\source\repos\Andile BE\
+2024-03-25 09:28:19.590 +02:00 [INF] Now listening on: http://localhost:5000
+2024-03-25 09:28:19.658 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-25 09:28:19.661 +02:00 [INF] Hosting environment: Development
+2024-03-25 09:28:19.661 +02:00 [INF] Content root path: C:\Users\Gorent\source\repos\Andile BE\
+2024-03-25 09:28:53.930 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/customer application/json 65
+2024-03-25 09:28:54.007 +02:00 [INF] HTTP POST /customer responded 307 in 5.3953 ms
+2024-03-25 09:28:54.026 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/customer application/json 65 - 307 0 - 100.5774ms
+2024-03-25 09:29:31.586 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/customer application/json 83
+2024-03-25 09:29:31.588 +02:00 [INF] HTTP POST /customer responded 307 in 0.0789 ms
+2024-03-25 09:29:31.590 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/customer application/json 83 - 307 0 - 3.8789ms
+2024-03-25 09:29:32.946 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/customer application/json 83
+2024-03-25 09:29:32.949 +02:00 [INF] HTTP POST /customer responded 307 in 0.0151 ms
+2024-03-25 09:29:32.952 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/customer application/json 83 - 307 0 - 5.6688ms
+2024-03-25 09:29:49.608 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/product application/json 96
+2024-03-25 09:29:49.611 +02:00 [INF] HTTP POST /product responded 307 in 0.0292 ms
+2024-03-25 09:29:49.613 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/product application/json 96 - 307 0 - 5.3376ms
+2024-03-25 09:29:55.794 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/product application/json 96
+2024-03-25 09:29:55.795 +02:00 [INF] HTTP POST /product responded 307 in 0.0120 ms
+2024-03-25 09:29:55.797 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/product application/json 96 - 307 0 - 3.4048ms
+2024-03-25 09:32:13.568 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/api/products application/json 96
+2024-03-25 09:32:13.576 +02:00 [INF] HTTP POST /api/products responded 307 in 0.0367 ms
+2024-03-25 09:32:13.578 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/api/products application/json 96 - 307 0 - 15.0338ms
+2024-03-25 09:32:15.023 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/api/products application/json 96
+2024-03-25 09:32:15.026 +02:00 [INF] HTTP POST /api/products responded 307 in 0.0112 ms
+2024-03-25 09:32:15.027 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/api/products application/json 96 - 307 0 - 4.2596ms
+2024-03-25 09:32:48.532 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/api/products application/json 96
+2024-03-25 09:32:48.539 +02:00 [INF] HTTP POST /api/products responded 307 in 0.0190 ms
+2024-03-25 09:32:48.541 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/api/products application/json 96 - 307 0 - 9.0471ms
+2024-03-25 09:33:01.580 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/products - -
+2024-03-25 09:33:01.686 +02:00 [INF] HTTP GET /api/products responded 307 in 0.1027 ms
+2024-03-25 09:33:01.701 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/products - - - 307 0 - 121.6217ms
+2024-03-25 14:31:58.297 +02:00 [INF] Now listening on: http://localhost:5000
+2024-03-25 14:31:58.477 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-25 14:31:58.484 +02:00 [INF] Hosting environment: Development
+2024-03-25 14:31:58.486 +02:00 [INF] Content root path: C:\Users\Gorent\source\repos\Andile BE\
+2024-03-25 14:32:50.228 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/api/products application/json 129
+2024-03-25 14:32:50.434 +02:00 [INF] HTTP POST /api/products responded 307 in 15.6548 ms
+2024-03-25 14:32:50.492 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/api/products application/json 129 - 307 0 - 274.7943ms
+2024-03-25 14:35:12.386 +02:00 [INF] Now listening on: http://localhost:5000
+2024-03-25 14:35:12.514 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-25 14:35:12.518 +02:00 [INF] Hosting environment: Development
+2024-03-25 14:35:12.520 +02:00 [INF] Content root path: C:\Users\Gorent\source\repos\Andile BE\
+2024-03-25 14:35:57.443 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/product application/json 91
+2024-03-25 14:35:57.695 +02:00 [INF] HTTP POST /product responded 307 in 69.8323 ms
+2024-03-25 14:35:57.736 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/product application/json 91 - 307 0 - 307.8796ms
+2024-03-25 14:36:06.327 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/product application/json 91
+2024-03-25 14:36:06.329 +02:00 [INF] HTTP POST /product responded 307 in 0.1301 ms
+2024-03-25 14:36:06.332 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/product application/json 91 - 307 0 - 4.3848ms
+2024-03-25 14:36:23.796 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/product application/json 108
+2024-03-25 14:36:23.800 +02:00 [INF] HTTP POST /product responded 307 in 0.0312 ms
+2024-03-25 14:36:23.804 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/product application/json 108 - 307 0 - 8.3094ms
+2024-03-25 14:36:39.116 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/api/product application/json 108
+2024-03-25 14:36:39.120 +02:00 [INF] HTTP POST /api/product responded 307 in 0.0212 ms
+2024-03-25 14:36:39.123 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/api/product application/json 108 - 307 0 - 6.6967ms
+2024-03-25 14:36:59.839 +02:00 [INF] Now listening on: https://localhost:7211
+2024-03-25 14:36:59.905 +02:00 [INF] Now listening on: http://localhost:5063
+2024-03-25 14:36:59.915 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-25 14:36:59.919 +02:00 [INF] Hosting environment: Development
+2024-03-25 14:36:59.921 +02:00 [INF] Content root path: C:\Users\Gorent\source\repos\Andile BE\
+2024-03-25 14:37:00.990 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7211/swagger/index.html - -
+2024-03-25 14:37:01.826 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7211/_framework/aspnetcore-browser-refresh.js - -
+2024-03-25 14:37:01.826 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7211/_vs/browserLink - -
+2024-03-25 14:37:01.867 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7211/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 36.2547ms
+2024-03-25 14:37:01.872 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7211/swagger/index.html - - - 200 - text/html;charset=utf-8 892.6307ms
+2024-03-25 14:37:01.977 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7211/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 150.4713ms
+2024-03-25 14:37:02.083 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7211/swagger/v1/swagger.json - -
+2024-03-25 14:37:02.367 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7211/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 284.0579ms
+2024-03-25 14:39:28.549 +02:00 [INF] Request starting HTTP/1.1 POST https://localhost:7211/api/Products/product application/json 108
+2024-03-25 14:39:28.594 +02:00 [INF] Executing endpoint 'Andile_BE.Controllers.ProductsController.AddProduct (Andile BE)'
+2024-03-25 14:39:28.755 +02:00 [INF] Route matched with {action = "AddProduct", controller = "Products"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[Andile_BE.Models.Product] AddProduct(Andile_BE.Models.Product) on controller Andile_BE.Controllers.ProductsController (Andile BE).
+2024-03-25 14:39:38.175 +02:00 [INF] Some Product 5 was created successfully
+2024-03-25 14:39:39.703 +02:00 [INF] Executing CreatedAtActionResult, writing value of type 'Andile_BE.Models.Product'.
+2024-03-25 14:39:39.961 +02:00 [INF] Executed action Andile_BE.Controllers.ProductsController.AddProduct (Andile BE) in 11186.0056ms
+2024-03-25 14:39:39.973 +02:00 [INF] Executed endpoint 'Andile_BE.Controllers.ProductsController.AddProduct (Andile BE)'
+2024-03-25 14:39:39.978 +02:00 [INF] HTTP POST /api/Products/product responded 201 in 11404.1966 ms
+2024-03-25 14:39:39.983 +02:00 [INF] Request finished HTTP/1.1 POST https://localhost:7211/api/Products/product application/json 108 - 201 - application/json;+charset=utf-8 11433.7970ms
+2024-03-25 14:41:24.147 +02:00 [INF] Now listening on: http://localhost:5000
+2024-03-25 14:41:24.266 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-25 14:41:24.276 +02:00 [INF] Hosting environment: Development
+2024-03-25 14:41:24.282 +02:00 [INF] Content root path: C:\Users\Gorent\source\repos\Andile BE\
+2024-03-25 14:41:35.688 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/api/Products/product application/json 108
+2024-03-25 14:41:35.901 +02:00 [INF] HTTP POST /api/Products/product responded 307 in 12.6797 ms
+2024-03-25 14:41:35.990 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/api/Products/product application/json 108 - 307 0 - 313.7575ms
+2024-03-25 14:41:38.460 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/api/Products/product application/json 108
+2024-03-25 14:41:38.469 +02:00 [INF] HTTP POST /api/Products/product responded 307 in 0.3049 ms
+2024-03-25 14:41:38.479 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/api/Products/product application/json 108 - 307 0 - 18.3912ms
+2024-03-25 14:43:10.353 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/api/Products/product application/json 108
+2024-03-25 14:43:10.368 +02:00 [INF] HTTP POST /api/Products/product responded 307 in 0.0353 ms
+2024-03-25 14:43:10.373 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/api/Products/product application/json 108 - 307 0 - 19.7519ms
+2024-03-25 14:43:37.217 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/Products/product - -
+2024-03-25 14:43:37.287 +02:00 [INF] HTTP GET /api/Products/product responded 307 in 0.0428 ms
+2024-03-25 14:43:37.303 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/Products/product - - - 307 0 - 86.4827ms
+2024-03-25 20:18:22.140 +02:00 [INF] Now listening on: http://localhost:5000
+2024-03-25 20:18:22.245 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-25 20:18:22.250 +02:00 [INF] Hosting environment: Development
+2024-03-25 20:18:22.253 +02:00 [INF] Content root path: C:\Users\Gorent\source\repos\Andile BE\
+2024-03-25 20:19:51.634 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/product application/json 128
+2024-03-25 20:19:51.944 +02:00 [INF] HTTP POST /product responded 307 in 20.0773 ms
+2024-03-25 20:19:52.040 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/product application/json 128 - 307 0 - 409.0399ms
+2024-03-25 20:21:33.174 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/ - -
+2024-03-25 20:21:33.271 +02:00 [INF] HTTP GET / responded 307 in 0.1386 ms
+2024-03-25 20:21:33.290 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/ - - - 307 0 - 116.1257ms
+2024-03-25 20:23:10.339 +02:00 [INF] Now listening on: http://localhost:5000
+2024-03-25 20:23:10.423 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-25 20:23:10.426 +02:00 [INF] Hosting environment: Development
+2024-03-25 20:23:10.428 +02:00 [INF] Content root path: C:\Users\Gorent\source\repos\Andile BE\
+2024-03-25 20:23:19.570 +02:00 [INF] Now listening on: http://localhost:5000
+2024-03-25 20:23:19.662 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-25 20:23:19.667 +02:00 [INF] Hosting environment: Development
+2024-03-25 20:23:19.669 +02:00 [INF] Content root path: C:\Users\Gorent\source\repos\Andile BE\
+2024-03-25 20:23:28.297 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/product application/json 128
+2024-03-25 20:23:28.511 +02:00 [INF] HTTP POST /product responded 307 in 12.2387 ms
+2024-03-25 20:23:28.548 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/product application/json 128 - 307 0 - 267.5020ms
+2024-03-25 20:25:06.885 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/product application/json 128
+2024-03-25 20:25:06.891 +02:00 [INF] HTTP POST /product responded 307 in 0.2855 ms
+2024-03-25 20:25:06.900 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/product application/json 128 - 307 0 - 15.4722ms
+2024-03-25 20:25:35.512 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/product application/json 128
+2024-03-25 20:25:35.524 +02:00 [INF] HTTP POST /product responded 307 in 0.0413 ms
+2024-03-25 20:25:35.529 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/product application/json 128 - 307 0 - 18.3823ms
+2024-03-25 20:26:10.484 +02:00 [INF] Now listening on: http://localhost:5008
+2024-03-25 20:26:10.559 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-25 20:26:10.562 +02:00 [INF] Hosting environment: Development
+2024-03-25 20:26:10.564 +02:00 [INF] Content root path: C:\Users\Gorent\source\repos\Andile BE\
+2024-03-25 20:26:44.065 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5008/product application/json 128
+2024-03-25 20:26:44.254 +02:00 [INF] HTTP POST /product responded 307 in 17.2778 ms
+2024-03-25 20:26:44.318 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5008/product application/json 128 - 307 0 - 258.7831ms
+2024-03-25 20:27:39.930 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5008/product application/json 106
+2024-03-25 20:27:39.934 +02:00 [INF] HTTP POST /product responded 307 in 0.1904 ms
+2024-03-25 20:27:39.941 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5008/product application/json 106 - 307 0 - 10.3443ms
+2024-03-25 20:30:47.220 +02:00 [INF] Now listening on: http://localhost:5000
+2024-03-25 20:30:47.305 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-25 20:30:47.308 +02:00 [INF] Hosting environment: Development
+2024-03-25 20:30:47.311 +02:00 [INF] Content root path: C:\Users\Gorent\source\repos\Andile BE\
+2024-03-25 20:30:47.659 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger - -
+2024-03-25 20:30:47.889 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger - - - 301 0 - 246.8719ms
+2024-03-25 20:30:47.905 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2024-03-25 20:30:48.358 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - -
+2024-03-25 20:30:48.358 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css - -
+2024-03-25 20:30:48.365 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+2024-03-25 20:30:48.367 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/_vs/browserLink - -
+2024-03-25 20:30:48.373 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - -
+2024-03-25 20:30:48.383 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 17.5558ms
+2024-03-25 20:30:48.387 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 481.7578ms
+2024-03-25 20:30:48.475 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 110.0235ms
+2024-03-25 20:30:48.488 +02:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-03-25 20:30:48.488 +02:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-03-25 20:30:48.488 +02:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-03-25 20:30:48.490 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css - - - 200 144929 text/css 132.1891ms
+2024-03-25 20:30:48.493 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - - - 200 312163 application/javascript 120.1686ms
+2024-03-25 20:30:48.495 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - - - 200 1061536 application/javascript 136.8326ms
+2024-03-25 20:30:48.718 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2024-03-25 20:30:48.774 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/favicon-32x32.png - -
+2024-03-25 20:30:48.778 +02:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-03-25 20:30:48.780 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/favicon-32x32.png - - - 200 628 image/png 5.5182ms
+2024-03-25 20:30:48.925 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 206.8394ms
+2024-03-25 20:31:02.873 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/product application/json 106
+2024-03-25 20:31:02.903 +02:00 [WRN] Failed to determine the https port for redirect.
+2024-03-25 20:31:02.920 +02:00 [INF] HTTP POST /product responded 404 in 28.5955 ms
+2024-03-25 20:31:02.941 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/product application/json 106 - 404 0 - 68.0976ms
+2024-03-25 20:31:03.017 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/products application/json 10
+2024-03-25 20:31:03.030 +02:00 [INF] Executing endpoint 'Andile_BE.Controllers.ProductsController.CreateProduct (Andile BE)'
+2024-03-25 20:31:03.113 +02:00 [INF] Route matched with {action = "CreateProduct", controller = "Products"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[Andile_BE.Models.Product] CreateProduct(Andile_BE.Models.Product) on controller Andile_BE.Controllers.ProductsController (Andile BE).
+2024-03-25 20:32:21.655 +02:00 [INF] Now listening on: http://localhost:5000
+2024-03-25 20:32:21.749 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-25 20:32:21.752 +02:00 [INF] Hosting environment: Development
+2024-03-25 20:32:21.755 +02:00 [INF] Content root path: C:\Users\Gorent\source\repos\Andile BE\
+2024-03-25 20:32:22.239 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2024-03-25 20:32:23.023 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+2024-03-25 20:32:23.025 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/_vs/browserLink - -
+2024-03-25 20:32:23.048 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 13.5803ms
+2024-03-25 20:32:23.062 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 832.7394ms
+2024-03-25 20:32:23.084 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 59.5970ms
+2024-03-25 20:32:23.416 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2024-03-25 20:32:23.585 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 169.1286ms
+2024-03-25 20:32:30.588 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/product application/json 108
+2024-03-25 20:32:30.601 +02:00 [WRN] Failed to determine the https port for redirect.
+2024-03-25 20:32:30.607 +02:00 [INF] HTTP POST /product responded 404 in 9.7911 ms
+2024-03-25 20:32:30.616 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/product application/json 108 - 404 0 - 27.9142ms
+2024-03-25 20:32:30.648 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/products application/json 10
+2024-03-25 20:32:30.658 +02:00 [INF] Executing endpoint 'Andile_BE.Controllers.ProductsController.CreateProduct (Andile BE)'
+2024-03-25 20:32:30.750 +02:00 [INF] Route matched with {action = "CreateProduct", controller = "Products"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[Andile_BE.Models.Product] CreateProduct(Andile_BE.Models.Product) on controller Andile_BE.Controllers.ProductsController (Andile BE).
+2024-03-25 20:33:33.411 +02:00 [INF] Now listening on: http://localhost:5000
+2024-03-25 20:33:33.496 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-25 20:33:33.500 +02:00 [INF] Hosting environment: Development
+2024-03-25 20:33:33.502 +02:00 [INF] Content root path: C:\Users\Gorent\source\repos\Andile BE\
+2024-03-25 20:33:33.974 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2024-03-25 20:33:34.690 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+2024-03-25 20:33:34.691 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/_vs/browserLink - -
+2024-03-25 20:33:34.721 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 26.5082ms
+2024-03-25 20:33:34.776 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 813.8969ms
+2024-03-25 20:33:34.818 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 126.2683ms
+2024-03-25 20:33:34.900 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2024-03-25 20:33:35.060 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 159.9366ms
+2024-03-25 20:33:38.738 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/product application/json 86
+2024-03-25 20:33:38.760 +02:00 [WRN] Failed to determine the https port for redirect.
+2024-03-25 20:33:38.772 +02:00 [INF] HTTP POST /product responded 404 in 18.3635 ms
+2024-03-25 20:33:38.796 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/product application/json 86 - 404 0 - 57.5204ms
+2024-03-25 20:33:38.894 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/products application/json 10
+2024-03-25 20:33:38.907 +02:00 [INF] Executing endpoint 'Andile_BE.Controllers.ProductsController.CreateProduct (Andile BE)'
+2024-03-25 20:33:39.032 +02:00 [INF] Route matched with {action = "CreateProduct", controller = "Products"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[Andile_BE.Models.Product] CreateProduct(Andile_BE.Models.Product) on controller Andile_BE.Controllers.ProductsController (Andile BE).
+2024-03-25 20:34:01.644 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/product application/json 85
+2024-03-25 20:34:01.657 +02:00 [INF] HTTP POST /product responded 404 in 0.0166 ms
+2024-03-25 20:34:01.663 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/product application/json 85 - 404 0 - 18.7659ms
+2024-03-25 20:34:01.710 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/products application/json 10
+2024-03-25 20:34:01.711 +02:00 [INF] Executing endpoint 'Andile_BE.Controllers.ProductsController.CreateProduct (Andile BE)'
+2024-03-25 20:34:01.734 +02:00 [INF] Route matched with {action = "CreateProduct", controller = "Products"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[Andile_BE.Models.Product] CreateProduct(Andile_BE.Models.Product) on controller Andile_BE.Controllers.ProductsController (Andile BE).
+2024-03-25 20:35:54.053 +02:00 [INF] Now listening on: http://localhost:5000
+2024-03-25 20:35:54.183 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-25 20:35:54.187 +02:00 [INF] Hosting environment: Development
+2024-03-25 20:35:54.188 +02:00 [INF] Content root path: C:\Users\Gorent\source\repos\Andile BE\
+2024-03-25 20:35:54.865 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2024-03-25 20:35:55.661 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/_vs/browserLink - -
+2024-03-25 20:35:55.661 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+2024-03-25 20:35:55.685 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 23.2234ms
+2024-03-25 20:35:55.705 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 857.3898ms
+2024-03-25 20:35:55.739 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 78.5041ms
+2024-03-25 20:35:55.852 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2024-03-25 20:35:56.054 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 202.0462ms
+2024-03-25 20:36:09.731 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/Products application/json 108
+2024-03-25 20:36:09.750 +02:00 [WRN] Failed to determine the https port for redirect.
+2024-03-25 20:36:09.761 +02:00 [INF] Executing endpoint 'Andile_BE.Controllers.ProductsController.CreateProduct (Andile BE)'
+2024-03-25 20:36:09.849 +02:00 [INF] Route matched with {action = "CreateProduct", controller = "Products"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[Andile_BE.Models.Product] CreateProduct(Andile_BE.Models.Product) on controller Andile_BE.Controllers.ProductsController (Andile BE).
+2024-03-25 20:36:40.223 +02:00 [INF] Some Product 5 was created successfully
+2024-03-25 20:36:41.583 +02:00 [INF] Executing CreatedAtActionResult, writing value of type 'Andile_BE.Models.Product'.
+2024-03-25 20:36:48.543 +02:00 [INF] Executed action Andile_BE.Controllers.ProductsController.CreateProduct (Andile BE) in 38644.4675ms
+2024-03-25 20:36:48.576 +02:00 [INF] Executed endpoint 'Andile_BE.Controllers.ProductsController.CreateProduct (Andile BE)'
+2024-03-25 20:36:48.609 +02:00 [INF] HTTP POST /Products responded 201 in 38843.4043 ms
+2024-03-25 20:36:48.624 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/Products application/json 108 - 201 - application/json;+charset=utf-8 38892.8349ms
+2024-03-25 20:37:49.295 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/product application/json 101
+2024-03-25 20:37:49.300 +02:00 [INF] HTTP POST /product responded 404 in 0.1577 ms
+2024-03-25 20:37:49.303 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/product application/json 101 - 404 0 - 9.1839ms
+2024-03-25 20:37:49.356 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/products application/json 10
+2024-03-25 20:37:49.357 +02:00 [INF] Executing endpoint 'Andile_BE.Controllers.ProductsController.CreateProduct (Andile BE)'
+2024-03-25 20:37:49.359 +02:00 [INF] Route matched with {action = "CreateProduct", controller = "Products"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[Andile_BE.Models.Product] CreateProduct(Andile_BE.Models.Product) on controller Andile_BE.Controllers.ProductsController (Andile BE).
+2024-03-25 20:43:24.037 +02:00 [ERR] An error occurred while creating  => The parameterized query '(@Id nvarchar(4000),@Name nvarchar(4000),@Description nvarchar(4' expects the parameter '@Id', which was not supplied.
+2024-03-25 20:43:26.534 +02:00 [INF] Executed action Andile_BE.Controllers.ProductsController.CreateProduct (Andile BE) in 337172.8482ms
+2024-03-25 20:43:26.542 +02:00 [INF] Executed endpoint 'Andile_BE.Controllers.ProductsController.CreateProduct (Andile BE)'
+2024-03-25 20:43:26.547 +02:00 [ERR] HTTP POST /products responded 500 in 337189.7343 ms
+Microsoft.Data.SqlClient.SqlException (0x80131904): The parameterized query '(@Id nvarchar(4000),@Name nvarchar(4000),@Description nvarchar(4' expects the parameter '@Id', which was not supplied.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String methodName)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Andile_BE.Services.ProductService.AddProduct(Product product)
+   at Andile_BE.Controllers.ProductsController.CreateProduct(Product product)
+   at lambda_method2(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+ClientConnectionId:e9746e5e-bfc4-4e0f-9482-19122d3d6147
+Error Number:8178,State:1,Class:16
+2024-03-25 20:43:26.717 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.Data.SqlClient.SqlException (0x80131904): The parameterized query '(@Id nvarchar(4000),@Name nvarchar(4000),@Description nvarchar(4' expects the parameter '@Id', which was not supplied.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String methodName)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Andile_BE.Services.ProductService.AddProduct(Product product)
+   at Andile_BE.Controllers.ProductsController.CreateProduct(Product product)
+   at lambda_method2(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ClientConnectionId:e9746e5e-bfc4-4e0f-9482-19122d3d6147
+Error Number:8178,State:1,Class:16
+2024-03-25 20:43:26.755 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/products application/json 10 - 500 - text/plain;+charset=utf-8 337399.4713ms
+2024-03-25 20:43:37.558 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/product application/json 84
+2024-03-25 20:43:37.561 +02:00 [INF] HTTP POST /product responded 404 in 0.0509 ms
+2024-03-25 20:43:37.564 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/product application/json 84 - 404 0 - 5.2103ms
+2024-03-25 20:43:37.605 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/products application/json 10
+2024-03-25 20:43:37.607 +02:00 [INF] Executing endpoint 'Andile_BE.Controllers.ProductsController.CreateProduct (Andile BE)'
+2024-03-25 20:43:37.612 +02:00 [INF] Route matched with {action = "CreateProduct", controller = "Products"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[Andile_BE.Models.Product] CreateProduct(Andile_BE.Models.Product) on controller Andile_BE.Controllers.ProductsController (Andile BE).
+2024-03-25 20:44:06.683 +02:00 [ERR] An error occurred while creating  => The parameterized query '(@Name nvarchar(4000),@Description nvarchar(4000),@Price decimal' expects the parameter '@Name', which was not supplied.
+2024-03-25 20:44:16.919 +02:00 [INF] Executed action Andile_BE.Controllers.ProductsController.CreateProduct (Andile BE) in 39303.1087ms
+2024-03-25 20:44:16.942 +02:00 [INF] Executed endpoint 'Andile_BE.Controllers.ProductsController.CreateProduct (Andile BE)'
+2024-03-25 20:44:16.967 +02:00 [ERR] HTTP POST /products responded 500 in 39360.1162 ms
+Microsoft.Data.SqlClient.SqlException (0x80131904): The parameterized query '(@Name nvarchar(4000),@Description nvarchar(4000),@Price decimal' expects the parameter '@Name', which was not supplied.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteScalar()
+   at Andile_BE.Services.ProductService.AddProduct(Product product)
+   at Andile_BE.Controllers.ProductsController.CreateProduct(Product product)
+   at lambda_method4(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+ClientConnectionId:d77fc26c-3eba-4dee-b332-6c82b12902ae
+Error Number:8178,State:1,Class:16
+2024-03-25 20:44:17.022 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.Data.SqlClient.SqlException (0x80131904): The parameterized query '(@Name nvarchar(4000),@Description nvarchar(4000),@Price decimal' expects the parameter '@Name', which was not supplied.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteScalar()
+   at Andile_BE.Services.ProductService.AddProduct(Product product)
+   at Andile_BE.Controllers.ProductsController.CreateProduct(Product product)
+   at lambda_method4(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ClientConnectionId:d77fc26c-3eba-4dee-b332-6c82b12902ae
+Error Number:8178,State:1,Class:16
+2024-03-25 20:44:17.056 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/products application/json 10 - 500 - text/plain;+charset=utf-8 39450.4295ms
+2024-03-25 20:46:48.579 +02:00 [INF] Now listening on: http://localhost:5000
+2024-03-25 20:46:48.648 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-25 20:46:48.651 +02:00 [INF] Hosting environment: Development
+2024-03-25 20:46:48.654 +02:00 [INF] Content root path: C:\Users\Gorent\source\repos\Andile BE\
+2024-03-25 20:46:49.155 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2024-03-25 20:46:49.918 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/_vs/browserLink - -
+2024-03-25 20:46:49.918 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+2024-03-25 20:46:49.951 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 22.3993ms
+2024-03-25 20:46:49.976 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 832.9033ms
+2024-03-25 20:46:50.011 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 93.1624ms
+2024-03-25 20:46:50.119 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2024-03-25 20:46:50.342 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 223.2350ms
+2024-03-25 20:48:19.352 +02:00 [INF] Now listening on: http://localhost:5000
+2024-03-25 20:48:19.452 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-25 20:48:19.456 +02:00 [INF] Hosting environment: Development
+2024-03-25 20:48:19.458 +02:00 [INF] Content root path: C:\Users\Gorent\source\repos\Andile BE\
+2024-03-25 20:48:20.017 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2024-03-25 20:48:20.797 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+2024-03-25 20:48:20.797 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/_vs/browserLink - -
+2024-03-25 20:48:20.827 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 31.0172ms
+2024-03-25 20:48:20.866 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 860.5124ms
+2024-03-25 20:48:20.930 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 140.5709ms
+2024-03-25 20:48:21.026 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2024-03-25 20:48:21.222 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 196.3724ms
+2024-03-25 20:54:47.452 +02:00 [INF] Now listening on: http://localhost:5000
+2024-03-25 20:54:47.551 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-25 20:54:47.554 +02:00 [INF] Hosting environment: Development
+2024-03-25 20:54:47.556 +02:00 [INF] Content root path: C:\Users\Gorent\source\repos\Andile BE\
+2024-03-25 20:54:48.143 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2024-03-25 20:54:48.736 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+2024-03-25 20:54:48.736 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/_vs/browserLink - -
+2024-03-25 20:54:48.756 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 13.3697ms
+2024-03-25 20:54:48.772 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 642.1481ms
+2024-03-25 20:54:48.799 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 62.8725ms
+2024-03-25 20:54:48.899 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2024-03-25 20:54:49.103 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 204.8870ms
+2024-03-25 20:56:02.301 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/product application/json 84
+2024-03-25 20:56:02.343 +02:00 [WRN] Failed to determine the https port for redirect.
+2024-03-25 20:56:02.355 +02:00 [INF] HTTP POST /product responded 404 in 21.0428 ms
+2024-03-25 20:56:02.372 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/product application/json 84 - 404 0 - 70.2616ms
+2024-03-25 20:56:02.433 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/products application/json 10
+2024-03-25 20:56:02.443 +02:00 [INF] Executing endpoint 'Andile_BE.Controllers.ProductsController.CreateProduct (Andile BE)'
+2024-03-25 20:56:02.521 +02:00 [INF] Route matched with {action = "CreateProduct", controller = "Products"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[Andile_BE.Models.Product] CreateProduct(Andile_BE.Models.Product) on controller Andile_BE.Controllers.ProductsController (Andile BE).
+2024-03-25 20:56:02.665 +02:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2024-03-25 20:56:02.726 +02:00 [INF] Executed action Andile_BE.Controllers.ProductsController.CreateProduct (Andile BE) in 191.3722ms
+2024-03-25 20:56:02.732 +02:00 [INF] Executed endpoint 'Andile_BE.Controllers.ProductsController.CreateProduct (Andile BE)'
+2024-03-25 20:56:02.735 +02:00 [INF] HTTP POST /products responded 400 in 298.7721 ms
+2024-03-25 20:56:02.739 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/products application/json 10 - 400 - application/problem+json;+charset=utf-8 306.2749ms
+2024-03-25 20:57:32.995 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/product application/json 97
+2024-03-25 20:57:33.002 +02:00 [INF] HTTP POST /product responded 404 in 0.0217 ms
+2024-03-25 20:57:33.004 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/product application/json 97 - 404 0 - 9.7749ms
+2024-03-25 20:57:33.071 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/products application/json 10
+2024-03-25 20:57:33.074 +02:00 [INF] Executing endpoint 'Andile_BE.Controllers.ProductsController.CreateProduct (Andile BE)'
+2024-03-25 20:57:33.079 +02:00 [INF] Route matched with {action = "CreateProduct", controller = "Products"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[Andile_BE.Models.Product] CreateProduct(Andile_BE.Models.Product) on controller Andile_BE.Controllers.ProductsController (Andile BE).
+2024-03-25 20:57:33.086 +02:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2024-03-25 20:57:33.089 +02:00 [INF] Executed action Andile_BE.Controllers.ProductsController.CreateProduct (Andile BE) in 4.6971ms
+2024-03-25 20:57:33.093 +02:00 [INF] Executed endpoint 'Andile_BE.Controllers.ProductsController.CreateProduct (Andile BE)'
+2024-03-25 20:57:33.097 +02:00 [INF] HTTP POST /products responded 400 in 22.2737 ms
+2024-03-25 20:57:33.101 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/products application/json 10 - 400 - application/problem+json;+charset=utf-8 29.2368ms
+2024-03-25 20:59:22.464 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/Products application/json 81
+2024-03-25 20:59:22.477 +02:00 [INF] Executing endpoint 'Andile_BE.Controllers.ProductsController.CreateProduct (Andile BE)'
+2024-03-25 20:59:22.479 +02:00 [INF] Route matched with {action = "CreateProduct", controller = "Products"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[Andile_BE.Models.Product] CreateProduct(Andile_BE.Models.Product) on controller Andile_BE.Controllers.ProductsController (Andile BE).
+2024-03-25 21:00:28.561 +02:00 [ERR] An error occurred while creating Zangwe => Cannot insert the value NULL into column 'Id', table 'Ecomerce_Db.dbo.Product'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+2024-03-25 21:00:29.372 +02:00 [INF] Executed action Andile_BE.Controllers.ProductsController.CreateProduct (Andile BE) in 66886.0519ms
+2024-03-25 21:00:29.379 +02:00 [INF] Executed endpoint 'Andile_BE.Controllers.ProductsController.CreateProduct (Andile BE)'
+2024-03-25 21:00:29.383 +02:00 [ERR] HTTP POST /Products responded 500 in 66906.3311 ms
+Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'Id', table 'Ecomerce_Db.dbo.Product'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteScalar()
+   at Andile_BE.Services.ProductService.AddProduct(Product product) in C:\Users\Gorent\source\repos\Andile BE\Services\ProductService.cs:line 25
+   at Andile_BE.Controllers.ProductsController.CreateProduct(Product product) in C:\Users\Gorent\source\repos\Andile BE\Controllers\ProductController.cs:line 24
+   at lambda_method2(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+ClientConnectionId:48212192-5414-4c2c-a8b4-fba930307978
+Error Number:515,State:2,Class:16
+2024-03-25 21:00:29.571 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'Id', table 'Ecomerce_Db.dbo.Product'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteScalar()
+   at Andile_BE.Services.ProductService.AddProduct(Product product) in C:\Users\Gorent\source\repos\Andile BE\Services\ProductService.cs:line 25
+   at Andile_BE.Controllers.ProductsController.CreateProduct(Product product) in C:\Users\Gorent\source\repos\Andile BE\Controllers\ProductController.cs:line 24
+   at lambda_method2(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ClientConnectionId:48212192-5414-4c2c-a8b4-fba930307978
+Error Number:515,State:2,Class:16
+2024-03-25 21:00:29.608 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/Products application/json 81 - 500 - text/plain;+charset=utf-8 67143.7012ms
+2024-03-25 21:00:48.956 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/Products application/json 63
+2024-03-25 21:00:48.957 +02:00 [INF] Executing endpoint 'Andile_BE.Controllers.ProductsController.CreateProduct (Andile BE)'
+2024-03-25 21:00:48.959 +02:00 [INF] Route matched with {action = "CreateProduct", controller = "Products"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[Andile_BE.Models.Product] CreateProduct(Andile_BE.Models.Product) on controller Andile_BE.Controllers.ProductsController (Andile BE).
+2024-03-25 21:04:14.023 +02:00 [INF] Now listening on: http://localhost:5000
+2024-03-25 21:04:14.087 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-25 21:04:14.090 +02:00 [INF] Hosting environment: Development
+2024-03-25 21:04:14.092 +02:00 [INF] Content root path: C:\Users\Gorent\source\repos\Andile BE\
+2024-03-25 21:04:14.853 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2024-03-25 21:04:15.540 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/_vs/browserLink - -
+2024-03-25 21:04:15.556 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+2024-03-25 21:04:15.578 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 14.7240ms
+2024-03-25 21:04:15.607 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 761.9591ms
+2024-03-25 21:04:15.644 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 103.7445ms
+2024-03-25 21:04:15.730 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2024-03-25 21:04:15.954 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 224.2229ms
+2024-03-25 21:04:24.955 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/product application/json 97
+2024-03-25 21:04:24.972 +02:00 [WRN] Failed to determine the https port for redirect.
+2024-03-25 21:04:24.979 +02:00 [INF] HTTP POST /product responded 404 in 12.0846 ms
+2024-03-25 21:04:24.990 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/product application/json 97 - 404 0 - 35.2377ms
+2024-03-25 21:04:25.041 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/products application/json 10
+2024-03-25 21:04:25.052 +02:00 [INF] Executing endpoint 'Andile_BE.Controllers.ProductsController.CreateProduct (Andile BE)'
+2024-03-25 21:04:25.153 +02:00 [INF] Route matched with {action = "CreateProduct", controller = "Products"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[Andile_BE.Models.Product] CreateProduct(Andile_BE.Models.Product) on controller Andile_BE.Controllers.ProductsController (Andile BE).
+2024-03-25 21:04:25.325 +02:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2024-03-25 21:04:25.393 +02:00 [INF] Executed action Andile_BE.Controllers.ProductsController.CreateProduct (Andile BE) in 220.3467ms
+2024-03-25 21:04:25.400 +02:00 [INF] Executed endpoint 'Andile_BE.Controllers.ProductsController.CreateProduct (Andile BE)'
+2024-03-25 21:04:25.403 +02:00 [INF] HTTP POST /products responded 400 in 359.1796 ms
+2024-03-25 21:04:25.408 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/products application/json 10 - 400 - application/problem+json;+charset=utf-8 367.4302ms
+2024-03-25 21:04:31.061 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/product application/json 84
+2024-03-25 21:04:31.064 +02:00 [INF] HTTP POST /product responded 404 in 0.0240 ms
+2024-03-25 21:04:31.069 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/product application/json 84 - 404 0 - 7.6684ms
+2024-03-25 21:04:31.134 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/products application/json 10
+2024-03-25 21:04:31.136 +02:00 [INF] Executing endpoint 'Andile_BE.Controllers.ProductsController.CreateProduct (Andile BE)'
+2024-03-25 21:04:31.138 +02:00 [INF] Route matched with {action = "CreateProduct", controller = "Products"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[Andile_BE.Models.Product] CreateProduct(Andile_BE.Models.Product) on controller Andile_BE.Controllers.ProductsController (Andile BE).
+2024-03-25 21:04:31.142 +02:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2024-03-25 21:04:31.145 +02:00 [INF] Executed action Andile_BE.Controllers.ProductsController.CreateProduct (Andile BE) in 3.6015ms
+2024-03-25 21:04:31.147 +02:00 [INF] Executed endpoint 'Andile_BE.Controllers.ProductsController.CreateProduct (Andile BE)'
+2024-03-25 21:04:31.149 +02:00 [INF] HTTP POST /products responded 400 in 13.2211 ms
+2024-03-25 21:04:31.152 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/products application/json 10 - 400 - application/problem+json;+charset=utf-8 17.4925ms
+2024-03-25 21:04:41.494 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/product application/json 100
+2024-03-25 21:04:41.495 +02:00 [INF] HTTP POST /product responded 404 in 0.0127 ms
+2024-03-25 21:04:41.498 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/product application/json 100 - 404 0 - 4.4121ms
+2024-03-25 21:04:41.545 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/products application/json 10
+2024-03-25 21:04:41.546 +02:00 [INF] Executing endpoint 'Andile_BE.Controllers.ProductsController.CreateProduct (Andile BE)'
+2024-03-25 21:04:41.548 +02:00 [INF] Route matched with {action = "CreateProduct", controller = "Products"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[Andile_BE.Models.Product] CreateProduct(Andile_BE.Models.Product) on controller Andile_BE.Controllers.ProductsController (Andile BE).
+2024-03-25 21:04:41.551 +02:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2024-03-25 21:04:41.554 +02:00 [INF] Executed action Andile_BE.Controllers.ProductsController.CreateProduct (Andile BE) in 2.8627ms
+2024-03-25 21:04:41.556 +02:00 [INF] Executed endpoint 'Andile_BE.Controllers.ProductsController.CreateProduct (Andile BE)'
+2024-03-25 21:04:41.557 +02:00 [INF] HTTP POST /products responded 400 in 11.5079 ms
+2024-03-25 21:04:41.560 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/products application/json 10 - 400 - application/problem+json;+charset=utf-8 15.5194ms
+2024-03-25 21:09:47.477 +02:00 [INF] Now listening on: http://localhost:5000
+2024-03-25 21:09:47.553 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-25 21:09:47.558 +02:00 [INF] Hosting environment: Development
+2024-03-25 21:09:47.561 +02:00 [INF] Content root path: C:\Users\Gorent\source\repos\Andile BE\
+2024-03-25 21:09:48.553 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2024-03-25 21:09:49.269 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+2024-03-25 21:09:49.271 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/_vs/browserLink - -
+2024-03-25 21:09:49.281 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 8.1969ms
+2024-03-25 21:09:49.307 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 765.7561ms
+2024-03-25 21:09:49.359 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 88.6251ms
+2024-03-25 21:09:49.473 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2024-03-25 21:09:49.671 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 197.7822ms
+2024-03-25 21:11:39.043 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/product application/json 100
+2024-03-25 21:11:39.070 +02:00 [WRN] Failed to determine the https port for redirect.
+2024-03-25 21:11:39.083 +02:00 [INF] HTTP POST /product responded 404 in 21.2200 ms
+2024-03-25 21:11:39.101 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/product application/json 100 - 404 0 - 57.4118ms
+2024-03-25 21:11:39.176 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/products application/json 10
+2024-03-25 21:11:39.192 +02:00 [INF] Executing endpoint 'Andile_BE.Controllers.ProductsController.CreateProduct (Andile BE)'
+2024-03-25 21:11:39.344 +02:00 [INF] Route matched with {action = "CreateProduct", controller = "Products"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[Andile_BE.Models.Product] CreateProduct(Andile_BE.Models.Product) on controller Andile_BE.Controllers.ProductsController (Andile BE).
+2024-03-25 21:11:39.577 +02:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2024-03-25 21:11:39.731 +02:00 [INF] Executed action Andile_BE.Controllers.ProductsController.CreateProduct (Andile BE) in 365.9969ms
+2024-03-25 21:11:39.734 +02:00 [INF] Executed endpoint 'Andile_BE.Controllers.ProductsController.CreateProduct (Andile BE)'
+2024-03-25 21:11:39.736 +02:00 [INF] HTTP POST /products responded 400 in 556.3719 ms
+2024-03-25 21:11:39.739 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/products application/json 10 - 400 - application/problem+json;+charset=utf-8 562.9875ms
+2024-03-25 21:11:52.089 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/product application/json 97
+2024-03-25 21:11:52.092 +02:00 [INF] HTTP POST /product responded 404 in 0.0210 ms
+2024-03-25 21:11:52.097 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/product application/json 97 - 404 0 - 7.7422ms
+2024-03-25 21:11:52.164 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/products application/json 10
+2024-03-25 21:11:52.167 +02:00 [INF] Executing endpoint 'Andile_BE.Controllers.ProductsController.CreateProduct (Andile BE)'
+2024-03-25 21:11:52.171 +02:00 [INF] Route matched with {action = "CreateProduct", controller = "Products"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[Andile_BE.Models.Product] CreateProduct(Andile_BE.Models.Product) on controller Andile_BE.Controllers.ProductsController (Andile BE).
+2024-03-25 21:11:52.177 +02:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2024-03-25 21:11:52.181 +02:00 [INF] Executed action Andile_BE.Controllers.ProductsController.CreateProduct (Andile BE) in 5.9173ms
+2024-03-25 21:11:52.185 +02:00 [INF] Executed endpoint 'Andile_BE.Controllers.ProductsController.CreateProduct (Andile BE)'
+2024-03-25 21:11:52.187 +02:00 [INF] HTTP POST /products responded 400 in 20.3199 ms
+2024-03-25 21:11:52.190 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/products application/json 10 - 400 - application/problem+json;+charset=utf-8 25.8253ms
+2024-03-25 21:12:15.220 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/Products application/json 81
+2024-03-25 21:12:15.231 +02:00 [INF] Executing endpoint 'Andile_BE.Controllers.ProductsController.CreateProduct (Andile BE)'
+2024-03-25 21:12:15.234 +02:00 [INF] Route matched with {action = "CreateProduct", controller = "Products"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[Andile_BE.Models.Product] CreateProduct(Andile_BE.Models.Product) on controller Andile_BE.Controllers.ProductsController (Andile BE).
+2024-03-25 21:12:24.952 +02:00 [INF] Bagana was created successfully
+2024-03-25 21:12:28.292 +02:00 [INF] Executing CreatedAtActionResult, writing value of type 'Andile_BE.Models.Product'.
+2024-03-25 21:12:36.267 +02:00 [INF] Executed action Andile_BE.Controllers.ProductsController.CreateProduct (Andile BE) in 21027.7087ms
+2024-03-25 21:12:36.295 +02:00 [INF] Executed endpoint 'Andile_BE.Controllers.ProductsController.CreateProduct (Andile BE)'
+2024-03-25 21:12:36.299 +02:00 [INF] HTTP POST /Products responded 201 in 21067.7855 ms
+2024-03-25 21:12:36.303 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/Products application/json 81 - 201 - application/json;+charset=utf-8 21083.3106ms
+2024-03-25 21:15:20.431 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/product application/json 80
+2024-03-25 21:15:20.441 +02:00 [INF] HTTP POST /product responded 404 in 0.0267 ms
+2024-03-25 21:15:20.444 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/product application/json 80 - 404 0 - 12.9665ms
+2024-03-25 21:15:20.485 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/products application/json 10
+2024-03-25 21:15:20.487 +02:00 [INF] Executing endpoint 'Andile_BE.Controllers.ProductsController.CreateProduct (Andile BE)'
+2024-03-25 21:15:20.488 +02:00 [INF] Route matched with {action = "CreateProduct", controller = "Products"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[Andile_BE.Models.Product] CreateProduct(Andile_BE.Models.Product) on controller Andile_BE.Controllers.ProductsController (Andile BE).
+2024-03-25 21:15:20.491 +02:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2024-03-25 21:15:20.493 +02:00 [INF] Executed action Andile_BE.Controllers.ProductsController.CreateProduct (Andile BE) in 2.0624ms
+2024-03-25 21:15:20.495 +02:00 [INF] Executed endpoint 'Andile_BE.Controllers.ProductsController.CreateProduct (Andile BE)'
+2024-03-25 21:15:20.497 +02:00 [INF] HTTP POST /products responded 400 in 10.1135 ms
+2024-03-25 21:15:20.499 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/products application/json 10 - 400 - application/problem+json;+charset=utf-8 13.7008ms
+2024-03-25 21:17:43.947 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 21:17:43.950 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:17:43.953 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:17:43.956 +02:00 [INF] HTTP GET /products responded 405 in 6.3513 ms
+2024-03-25 21:17:43.961 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 14.4645ms
+2024-03-25 21:17:43.975 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 21:17:43.982 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:17:44.042 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:17:44.049 +02:00 [INF] HTTP GET /products responded 405 in 66.1475 ms
+2024-03-25 21:17:44.057 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 82.0901ms
+2024-03-25 21:18:54.616 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 21:18:54.618 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:18:54.619 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:18:54.621 +02:00 [INF] HTTP GET /products responded 405 in 2.6187 ms
+2024-03-25 21:18:54.623 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 6.3962ms
+2024-03-25 21:18:54.629 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 21:18:54.632 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:18:54.634 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:18:54.635 +02:00 [INF] HTTP GET /products responded 405 in 3.2389 ms
+2024-03-25 21:18:54.638 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 8.9583ms
+2024-03-25 21:37:01.888 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 21:37:01.893 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:37:01.898 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:37:01.901 +02:00 [INF] HTTP GET /products responded 405 in 8.7410 ms
+2024-03-25 21:37:01.906 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 17.6681ms
+2024-03-25 21:37:01.919 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 21:37:01.922 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:37:01.925 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:37:01.926 +02:00 [INF] HTTP GET /products responded 405 in 4.4018 ms
+2024-03-25 21:37:01.929 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 10.0116ms
+2024-03-25 21:38:06.859 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 21:38:06.874 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:38:06.878 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:38:06.881 +02:00 [INF] HTTP GET /products responded 405 in 6.7892 ms
+2024-03-25 21:38:06.886 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 27.4268ms
+2024-03-25 21:39:13.997 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 21:39:14.008 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:39:14.009 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:39:14.010 +02:00 [INF] HTTP GET /products responded 405 in 2.1258 ms
+2024-03-25 21:39:14.012 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 15.1784ms
+2024-03-25 21:39:14.019 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 21:39:14.020 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:39:14.021 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:39:14.022 +02:00 [INF] HTTP GET /products responded 405 in 2.1386 ms
+2024-03-25 21:39:14.024 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 5.4568ms
+2024-03-25 21:39:17.246 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 21:39:17.249 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:39:17.250 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:39:17.252 +02:00 [INF] HTTP GET /products responded 405 in 3.0048 ms
+2024-03-25 21:39:17.255 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 8.5074ms
+2024-03-25 21:39:17.256 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 21:39:17.257 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:39:17.258 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:39:17.259 +02:00 [INF] HTTP GET /products responded 405 in 2.2258 ms
+2024-03-25 21:39:17.263 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 6.6086ms
+2024-03-25 21:42:07.250 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 21:42:07.268 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:42:07.272 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:42:07.275 +02:00 [INF] HTTP GET /products responded 405 in 6.4174 ms
+2024-03-25 21:42:07.282 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 31.8754ms
+2024-03-25 21:42:07.287 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 21:42:07.291 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:42:07.293 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:42:07.296 +02:00 [INF] HTTP GET /products responded 405 in 4.4893 ms
+2024-03-25 21:42:07.301 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 14.0205ms
+2024-03-25 21:42:26.676 +02:00 [INF] Now listening on: http://localhost:5000
+2024-03-25 21:42:26.860 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-25 21:42:26.865 +02:00 [INF] Hosting environment: Development
+2024-03-25 21:42:26.867 +02:00 [INF] Content root path: C:\Users\Gorent\source\repos\Andile BE\
+2024-03-25 21:42:27.679 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2024-03-25 21:42:28.945 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+2024-03-25 21:42:28.951 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/_vs/browserLink - -
+2024-03-25 21:42:28.989 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 31.0127ms
+2024-03-25 21:42:29.043 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 1386.7427ms
+2024-03-25 21:42:29.174 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 223.1802ms
+2024-03-25 21:42:29.326 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2024-03-25 21:42:29.839 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 512.7365ms
+2024-03-25 21:42:51.976 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 21:42:52.017 +02:00 [WRN] Failed to determine the https port for redirect.
+2024-03-25 21:42:52.034 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:42:52.037 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:42:52.047 +02:00 [INF] HTTP GET /products responded 405 in 40.9689 ms
+2024-03-25 21:42:52.067 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 90.8110ms
+2024-03-25 21:42:52.087 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 21:42:52.100 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:42:52.102 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:42:52.104 +02:00 [INF] HTTP GET /products responded 405 in 4.5654 ms
+2024-03-25 21:42:52.108 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 20.8156ms
+2024-03-25 21:44:25.525 +02:00 [INF] Now listening on: http://localhost:5000
+2024-03-25 21:44:25.668 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-25 21:44:25.674 +02:00 [INF] Hosting environment: Development
+2024-03-25 21:44:25.678 +02:00 [INF] Content root path: C:\Users\Gorent\source\repos\Andile BE\
+2024-03-25 21:44:26.534 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2024-03-25 21:44:27.766 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/_vs/browserLink - -
+2024-03-25 21:44:27.768 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+2024-03-25 21:44:27.802 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 21.9223ms
+2024-03-25 21:44:27.851 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 1335.9127ms
+2024-03-25 21:44:27.916 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 149.4579ms
+2024-03-25 21:44:28.106 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2024-03-25 21:44:28.523 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 417.0583ms
+2024-03-25 21:44:50.365 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 21:44:50.410 +02:00 [INF] CORS policy execution successful.
+2024-03-25 21:44:50.427 +02:00 [WRN] Failed to determine the https port for redirect.
+2024-03-25 21:44:50.443 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:44:50.447 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:44:50.456 +02:00 [INF] HTTP GET /products responded 405 in 27.6569 ms
+2024-03-25 21:44:50.475 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 110.0603ms
+2024-03-25 21:44:50.485 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 21:44:50.487 +02:00 [INF] CORS policy execution successful.
+2024-03-25 21:44:50.489 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:44:50.491 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:44:50.493 +02:00 [INF] HTTP GET /products responded 405 in 3.9171 ms
+2024-03-25 21:44:50.497 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 12.2205ms
+2024-03-25 21:45:37.793 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 21:45:37.801 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:45:37.802 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:45:37.803 +02:00 [INF] HTTP GET /products responded 405 in 2.2598 ms
+2024-03-25 21:45:37.805 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 11.4373ms
+2024-03-25 21:47:17.345 +02:00 [INF] Now listening on: http://localhost:5000
+2024-03-25 21:47:17.534 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-25 21:47:17.538 +02:00 [INF] Hosting environment: Development
+2024-03-25 21:47:17.540 +02:00 [INF] Content root path: C:\Users\Gorent\source\repos\Andile BE\
+2024-03-25 21:47:18.138 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2024-03-25 21:47:19.767 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+2024-03-25 21:47:19.774 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/_vs/browserLink - -
+2024-03-25 21:47:19.811 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 40.7729ms
+2024-03-25 21:47:19.852 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 1753.7822ms
+2024-03-25 21:47:19.939 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 164.7773ms
+2024-03-25 21:47:20.104 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2024-03-25 21:47:20.473 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 369.0275ms
+2024-03-25 21:47:49.015 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 21:47:49.052 +02:00 [INF] CORS policy execution successful.
+2024-03-25 21:47:49.075 +02:00 [WRN] Failed to determine the https port for redirect.
+2024-03-25 21:47:49.091 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:47:49.094 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:47:49.105 +02:00 [INF] HTTP GET /products responded 405 in 31.2605 ms
+2024-03-25 21:47:49.132 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 116.9038ms
+2024-03-25 21:47:49.137 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 21:47:49.139 +02:00 [INF] CORS policy execution successful.
+2024-03-25 21:47:49.143 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:47:49.146 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:47:49.148 +02:00 [INF] HTTP GET /products responded 405 in 5.3193 ms
+2024-03-25 21:47:49.154 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 17.7802ms
+2024-03-25 21:49:37.853 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 21:49:37.864 +02:00 [INF] CORS policy execution successful.
+2024-03-25 21:49:37.866 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:49:37.867 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:49:37.870 +02:00 [INF] HTTP GET /products responded 405 in 3.9913 ms
+2024-03-25 21:49:37.873 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 19.8766ms
+2024-03-25 21:50:55.859 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 21:50:55.863 +02:00 [INF] CORS policy execution successful.
+2024-03-25 21:50:55.864 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:50:55.865 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:50:55.865 +02:00 [INF] HTTP GET /products responded 405 in 1.4222 ms
+2024-03-25 21:50:55.867 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 8.1381ms
+2024-03-25 21:56:21.858 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 21:56:21.862 +02:00 [INF] CORS policy execution successful.
+2024-03-25 21:56:21.864 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:56:21.866 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:56:21.868 +02:00 [INF] HTTP GET /products responded 405 in 4.3448 ms
+2024-03-25 21:56:21.873 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 14.6874ms
+2024-03-25 21:57:20.882 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 21:57:20.885 +02:00 [INF] CORS policy execution successful.
+2024-03-25 21:57:20.886 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:57:20.890 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:57:20.892 +02:00 [INF] HTTP GET /products responded 405 in 6.0101 ms
+2024-03-25 21:57:20.895 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 16.6889ms
+2024-03-25 21:59:45.854 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 21:59:45.891 +02:00 [INF] CORS policy execution successful.
+2024-03-25 21:59:45.892 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:59:45.893 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 21:59:45.894 +02:00 [INF] HTTP GET /products responded 405 in 1.4402 ms
+2024-03-25 21:59:45.895 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 40.7509ms
+2024-03-25 22:00:41.898 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 22:00:41.914 +02:00 [INF] CORS policy execution successful.
+2024-03-25 22:00:41.915 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:00:41.917 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:00:41.919 +02:00 [INF] HTTP GET /products responded 405 in 3.4801 ms
+2024-03-25 22:00:41.922 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 24.9195ms
+2024-03-25 22:02:33.903 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 22:02:33.923 +02:00 [INF] CORS policy execution successful.
+2024-03-25 22:02:33.924 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:02:33.926 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:02:33.929 +02:00 [INF] HTTP GET /products responded 405 in 4.0835 ms
+2024-03-25 22:02:33.932 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 28.6639ms
+2024-03-25 22:25:45.361 +02:00 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:5000/orders - -
+2024-03-25 22:25:45.363 +02:00 [INF] CORS policy execution successful.
+2024-03-25 22:25:45.366 +02:00 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:5000/orders - - - 204 - - 26.3999ms
+2024-03-25 22:25:45.379 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/orders application/json 2
+2024-03-25 22:25:45.381 +02:00 [INF] CORS policy execution successful.
+2024-03-25 22:25:45.383 +02:00 [INF] HTTP POST /orders responded 404 in 0.1529 ms
+2024-03-25 22:25:45.386 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/orders application/json 2 - 404 0 - 6.2617ms
+2024-03-25 22:25:54.994 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 22:25:55.009 +02:00 [INF] CORS policy execution successful.
+2024-03-25 22:25:55.016 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:25:55.019 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:25:55.025 +02:00 [INF] HTTP GET /products responded 405 in 9.4771 ms
+2024-03-25 22:25:55.031 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 36.5227ms
+2024-03-25 22:25:55.037 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 22:25:55.045 +02:00 [INF] CORS policy execution successful.
+2024-03-25 22:25:55.049 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:25:55.052 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:25:55.059 +02:00 [INF] HTTP GET /products responded 405 in 10.2811 ms
+2024-03-25 22:25:55.094 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 57.3590ms
+2024-03-25 22:35:02.708 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 22:35:02.720 +02:00 [INF] CORS policy execution successful.
+2024-03-25 22:35:02.723 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:35:02.726 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:35:02.730 +02:00 [INF] HTTP GET /products responded 405 in 6.4095 ms
+2024-03-25 22:35:02.734 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 25.3313ms
+2024-03-25 22:35:02.743 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 22:35:02.748 +02:00 [INF] CORS policy execution successful.
+2024-03-25 22:35:02.751 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:35:02.754 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:35:02.758 +02:00 [INF] HTTP GET /products responded 405 in 6.5330 ms
+2024-03-25 22:35:02.762 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 18.9187ms
+2024-03-25 22:40:09.879 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 22:40:09.882 +02:00 [INF] CORS policy execution successful.
+2024-03-25 22:40:09.887 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:40:09.893 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:40:09.896 +02:00 [INF] HTTP GET /products responded 405 in 8.6070 ms
+2024-03-25 22:40:09.899 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 19.6438ms
+2024-03-25 22:40:09.900 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 22:40:09.905 +02:00 [INF] CORS policy execution successful.
+2024-03-25 22:40:09.908 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:40:09.910 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:40:09.912 +02:00 [INF] HTTP GET /products responded 405 in 4.6138 ms
+2024-03-25 22:40:09.915 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 14.8405ms
+2024-03-25 22:40:30.825 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 22:40:30.832 +02:00 [INF] CORS policy execution successful.
+2024-03-25 22:40:30.834 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:40:30.835 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:40:30.836 +02:00 [INF] HTTP GET /products responded 405 in 2.4053 ms
+2024-03-25 22:40:30.838 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 12.5926ms
+2024-03-25 22:40:30.839 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 22:40:30.841 +02:00 [INF] CORS policy execution successful.
+2024-03-25 22:40:30.842 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:40:30.843 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:40:30.843 +02:00 [INF] HTTP GET /products responded 405 in 1.7012 ms
+2024-03-25 22:40:30.845 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 6.0487ms
+2024-03-25 22:41:00.663 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 22:41:00.670 +02:00 [INF] CORS policy execution successful.
+2024-03-25 22:41:00.672 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:41:00.673 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:41:00.674 +02:00 [INF] HTTP GET /products responded 405 in 1.3936 ms
+2024-03-25 22:41:00.675 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 12.1480ms
+2024-03-25 22:41:00.676 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 22:41:00.676 +02:00 [INF] CORS policy execution successful.
+2024-03-25 22:41:00.677 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:41:00.677 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:41:00.678 +02:00 [INF] HTTP GET /products responded 405 in 1.3159 ms
+2024-03-25 22:41:00.679 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 3.4977ms
+2024-03-25 22:43:20.692 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 22:43:20.702 +02:00 [INF] CORS policy execution successful.
+2024-03-25 22:43:20.703 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:43:20.704 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:43:20.705 +02:00 [INF] HTTP GET /products responded 405 in 1.8808 ms
+2024-03-25 22:43:20.707 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 14.4286ms
+2024-03-25 22:43:20.711 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 22:43:20.712 +02:00 [INF] CORS policy execution successful.
+2024-03-25 22:43:20.713 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:43:20.714 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:43:20.715 +02:00 [INF] HTTP GET /products responded 405 in 2.0184 ms
+2024-03-25 22:43:20.717 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 5.3774ms
+2024-03-25 22:45:19.981 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 22:45:19.991 +02:00 [INF] CORS policy execution successful.
+2024-03-25 22:45:19.997 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:45:19.999 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:45:20.002 +02:00 [INF] HTTP GET /products responded 405 in 5.2236 ms
+2024-03-25 22:45:20.005 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 23.4448ms
+2024-03-25 22:45:20.016 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 22:45:20.019 +02:00 [INF] CORS policy execution successful.
+2024-03-25 22:45:20.021 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:45:20.022 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:45:20.024 +02:00 [INF] HTTP GET /products responded 405 in 3.2892 ms
+2024-03-25 22:45:20.027 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 10.7599ms
+2024-03-25 22:46:17.784 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 22:46:17.804 +02:00 [INF] CORS policy execution successful.
+2024-03-25 22:46:17.806 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:46:17.814 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:46:17.817 +02:00 [INF] HTTP GET /products responded 405 in 10.6133 ms
+2024-03-25 22:46:17.821 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 37.7988ms
+2024-03-25 22:46:20.423 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 22:46:20.452 +02:00 [INF] CORS policy execution successful.
+2024-03-25 22:46:20.456 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:46:20.489 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:46:20.495 +02:00 [INF] HTTP GET /products responded 405 in 39.3607 ms
+2024-03-25 22:46:20.503 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 79.2315ms
+2024-03-25 22:46:20.506 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 22:46:20.510 +02:00 [INF] CORS policy execution successful.
+2024-03-25 22:46:20.522 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:46:20.569 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:46:20.575 +02:00 [INF] HTTP GET /products responded 405 in 52.8566 ms
+2024-03-25 22:46:20.605 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 98.9171ms
+2024-03-25 22:47:32.976 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 22:47:32.998 +02:00 [INF] CORS policy execution successful.
+2024-03-25 22:47:33.002 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:47:33.006 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:47:33.009 +02:00 [INF] HTTP GET /products responded 405 in 7.1700 ms
+2024-03-25 22:47:33.014 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 38.3085ms
+2024-03-25 22:47:44.156 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 22:47:44.164 +02:00 [INF] CORS policy execution successful.
+2024-03-25 22:47:44.167 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:47:44.169 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:47:44.171 +02:00 [INF] HTTP GET /products responded 405 in 4.0766 ms
+2024-03-25 22:47:44.178 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 21.9379ms
+2024-03-25 22:47:44.183 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 22:47:44.185 +02:00 [INF] CORS policy execution successful.
+2024-03-25 22:47:44.187 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:47:44.196 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:47:44.198 +02:00 [INF] HTTP GET /products responded 405 in 11.4278 ms
+2024-03-25 22:47:44.203 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 19.9772ms
+2024-03-25 22:50:28.052 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 22:50:28.083 +02:00 [INF] CORS policy execution successful.
+2024-03-25 22:50:28.091 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:50:28.099 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:50:28.103 +02:00 [INF] HTTP GET /products responded 405 in 12.0663 ms
+2024-03-25 22:50:28.133 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 80.6059ms
+2024-03-25 22:50:28.229 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 22:50:28.435 +02:00 [INF] CORS policy execution successful.
+2024-03-25 22:50:28.448 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:50:28.473 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:50:28.485 +02:00 [INF] HTTP GET /products responded 405 in 37.8254 ms
+2024-03-25 22:50:28.497 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 267.9363ms
+2024-03-25 22:50:31.283 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 22:50:31.309 +02:00 [INF] CORS policy execution successful.
+2024-03-25 22:50:31.312 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:50:31.344 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:50:31.362 +02:00 [INF] HTTP GET /products responded 405 in 49.7468 ms
+2024-03-25 22:50:31.368 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 85.2279ms
+2024-03-25 22:50:31.425 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 22:50:31.430 +02:00 [INF] CORS policy execution successful.
+2024-03-25 22:50:31.452 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:50:31.463 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 22:50:31.468 +02:00 [INF] HTTP GET /products responded 405 in 16.2439 ms
+2024-03-25 22:50:31.476 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 51.1189ms
+2024-03-25 23:03:36.980 +02:00 [INF] Now listening on: http://localhost:5000
+2024-03-25 23:03:37.158 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-25 23:03:37.162 +02:00 [INF] Hosting environment: Development
+2024-03-25 23:03:37.164 +02:00 [INF] Content root path: C:\Users\Gorent\source\repos\Andile BE\
+2024-03-25 23:03:38.371 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2024-03-25 23:03:40.423 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+2024-03-25 23:03:40.458 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 2103.6025ms
+2024-03-25 23:03:40.458 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 28.4755ms
+2024-03-25 23:03:40.585 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/_vs/browserLink - -
+2024-03-25 23:03:40.759 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 174.2566ms
+2024-03-25 23:03:41.427 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2024-03-25 23:03:42.066 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 639.1175ms
+2024-03-25 23:07:01.744 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products/all - -
+2024-03-25 23:07:01.793 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:07:01.811 +02:00 [WRN] Failed to determine the https port for redirect.
+2024-03-25 23:07:01.830 +02:00 [INF] Executing endpoint 'Andile_BE.Controllers.ProductsController.GetAllProducts (Andile BE)'
+2024-03-25 23:07:01.924 +02:00 [INF] Route matched with {action = "GetAllProducts", controller = "Products"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[Andile_BE.Models.Product]] GetAllProducts() on controller Andile_BE.Controllers.ProductsController (Andile BE).
+2024-03-25 23:07:03.593 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Andile_BE.Models.Product, Andile BE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-03-25 23:07:03.676 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products/all - -
+2024-03-25 23:07:03.692 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:07:03.694 +02:00 [INF] Executing endpoint 'Andile_BE.Controllers.ProductsController.GetAllProducts (Andile BE)'
+2024-03-25 23:07:03.696 +02:00 [INF] Route matched with {action = "GetAllProducts", controller = "Products"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[Andile_BE.Models.Product]] GetAllProducts() on controller Andile_BE.Controllers.ProductsController (Andile BE).
+2024-03-25 23:07:03.705 +02:00 [INF] Executed action Andile_BE.Controllers.ProductsController.GetAllProducts (Andile BE) in 1738.4813ms
+2024-03-25 23:07:03.723 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Andile_BE.Models.Product, Andile BE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-03-25 23:07:03.730 +02:00 [INF] Executed endpoint 'Andile_BE.Controllers.ProductsController.GetAllProducts (Andile BE)'
+2024-03-25 23:07:03.730 +02:00 [INF] Executed action Andile_BE.Controllers.ProductsController.GetAllProducts (Andile BE) in 25.6686ms
+2024-03-25 23:07:03.740 +02:00 [INF] Executed endpoint 'Andile_BE.Controllers.ProductsController.GetAllProducts (Andile BE)'
+2024-03-25 23:07:03.745 +02:00 [INF] HTTP GET /products/all responded 200 in 1931.2035 ms
+2024-03-25 23:07:03.745 +02:00 [INF] HTTP GET /products/all responded 200 in 48.9928 ms
+2024-03-25 23:07:03.754 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products/all - - - 200 - application/json;+charset=utf-8 2009.2781ms
+2024-03-25 23:07:03.756 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products/all - - - 200 - application/json;+charset=utf-8 80.0399ms
+2024-03-25 23:10:31.557 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 23:10:31.569 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:10:31.573 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:10:31.580 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:10:31.582 +02:00 [INF] HTTP GET /products responded 405 in 9.0690 ms
+2024-03-25 23:10:31.588 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 47.1677ms
+2024-03-25 23:13:18.338 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 23:13:18.355 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:13:18.357 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:13:18.360 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:13:18.363 +02:00 [INF] HTTP GET /products responded 405 in 6.5292 ms
+2024-03-25 23:13:18.368 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 30.5248ms
+2024-03-25 23:15:15.897 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 23:15:15.902 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:15:15.906 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:15:15.909 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:15:15.912 +02:00 [INF] HTTP GET /products responded 405 in 6.0099 ms
+2024-03-25 23:15:15.916 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 19.5269ms
+2024-03-25 23:24:21.964 +02:00 [INF] Now listening on: http://localhost:5000
+2024-03-25 23:24:22.154 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-25 23:24:22.159 +02:00 [INF] Hosting environment: Development
+2024-03-25 23:24:22.166 +02:00 [INF] Content root path: C:\Users\Gorent\source\repos\Andile BE\
+2024-03-25 23:24:22.994 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2024-03-25 23:24:25.264 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+2024-03-25 23:24:25.268 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/_vs/browserLink - -
+2024-03-25 23:24:25.412 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 106.0522ms
+2024-03-25 23:24:25.412 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 2367.3764ms
+2024-03-25 23:24:25.575 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 307.1300ms
+2024-03-25 23:24:25.805 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2024-03-25 23:24:26.464 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 658.8318ms
+2024-03-25 23:26:04.674 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 23:26:04.758 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:26:04.860 +02:00 [WRN] Failed to determine the https port for redirect.
+2024-03-25 23:26:04.893 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:26:04.897 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:26:04.927 +02:00 [INF] HTTP GET /products responded 405 in 54.7585 ms
+2024-03-25 23:26:04.987 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 313.3341ms
+2024-03-25 23:26:05.905 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 23:26:05.908 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:26:05.911 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:26:05.914 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:26:05.919 +02:00 [INF] HTTP GET /products responded 405 in 8.4180 ms
+2024-03-25 23:26:05.925 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 19.2431ms
+2024-03-25 23:26:46.664 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 23:26:46.678 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:26:46.680 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:26:46.681 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:26:46.683 +02:00 [INF] HTTP GET /products responded 405 in 2.8474 ms
+2024-03-25 23:26:46.708 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 44.4508ms
+2024-03-25 23:26:51.968 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 23:26:51.976 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:26:51.980 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:26:51.984 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:26:51.988 +02:00 [INF] HTTP GET /products responded 405 in 7.8561 ms
+2024-03-25 23:26:51.995 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 27.6026ms
+2024-03-25 23:26:52.011 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 23:26:52.016 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:26:52.019 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:26:52.036 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:26:52.044 +02:00 [INF] HTTP GET /products responded 405 in 24.9797 ms
+2024-03-25 23:26:52.050 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 38.7184ms
+2024-03-25 23:27:06.471 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 23:27:06.544 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:27:06.554 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:27:06.558 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:27:06.567 +02:00 [INF] HTTP GET /products responded 405 in 12.9663 ms
+2024-03-25 23:27:06.574 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 102.8882ms
+2024-03-25 23:27:14.083 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 23:27:14.094 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:27:14.096 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:27:14.102 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:27:14.106 +02:00 [INF] HTTP GET /products responded 405 in 9.6575 ms
+2024-03-25 23:27:14.112 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 29.5911ms
+2024-03-25 23:27:14.136 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 23:27:14.142 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:27:14.145 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:27:14.151 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:27:14.160 +02:00 [INF] HTTP GET /products responded 405 in 15.0273 ms
+2024-03-25 23:27:14.167 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 31.6692ms
+2024-03-25 23:27:57.655 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products/all - -
+2024-03-25 23:27:57.744 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:27:57.761 +02:00 [INF] Executing endpoint 'Andile_BE.Controllers.ProductsController.GetAllProducts (Andile BE)'
+2024-03-25 23:27:57.908 +02:00 [INF] Route matched with {action = "GetAllProducts", controller = "Products"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[Andile_BE.Models.Product]] GetAllProducts() on controller Andile_BE.Controllers.ProductsController (Andile BE).
+2024-03-25 23:27:59.499 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Andile_BE.Models.Product, Andile BE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-03-25 23:27:59.573 +02:00 [INF] Executed action Andile_BE.Controllers.ProductsController.GetAllProducts (Andile BE) in 1619.2215ms
+2024-03-25 23:27:59.579 +02:00 [INF] Executed endpoint 'Andile_BE.Controllers.ProductsController.GetAllProducts (Andile BE)'
+2024-03-25 23:27:59.581 +02:00 [INF] HTTP GET /products/all responded 200 in 1820.0662 ms
+2024-03-25 23:27:59.586 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products/all - - - 200 - application/json;+charset=utf-8 1930.9913ms
+2024-03-25 23:28:16.685 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 23:28:16.689 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:28:16.690 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:28:16.692 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:28:16.694 +02:00 [INF] HTTP GET /products responded 405 in 4.3533 ms
+2024-03-25 23:28:16.697 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 12.6859ms
+2024-03-25 23:28:16.707 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 23:28:16.708 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:28:16.710 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:28:16.712 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:28:16.713 +02:00 [INF] HTTP GET /products responded 405 in 3.1593 ms
+2024-03-25 23:28:16.716 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 9.0276ms
+2024-03-25 23:28:25.851 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 23:28:25.857 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:28:25.861 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:28:25.863 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:28:25.866 +02:00 [INF] HTTP GET /products responded 405 in 4.9444 ms
+2024-03-25 23:28:25.873 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 21.2638ms
+2024-03-25 23:28:25.876 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 23:28:25.879 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:28:25.881 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:28:25.884 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:28:25.888 +02:00 [INF] HTTP GET /products responded 405 in 6.6344 ms
+2024-03-25 23:28:25.892 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 16.5897ms
+2024-03-25 23:29:00.032 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 23:29:00.039 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:29:00.042 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:29:00.074 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:29:00.094 +02:00 [INF] HTTP GET /products responded 405 in 52.1204 ms
+2024-03-25 23:29:00.115 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 82.9990ms
+2024-03-25 23:29:00.335 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 23:29:00.888 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:29:01.088 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:29:01.095 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:29:01.106 +02:00 [INF] HTTP GET /products responded 405 in 18.1220 ms
+2024-03-25 23:29:01.121 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 786.0017ms
+2024-03-25 23:29:17.576 +02:00 [INF] Now listening on: http://localhost:5000
+2024-03-25 23:29:17.705 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-25 23:29:17.710 +02:00 [INF] Hosting environment: Development
+2024-03-25 23:29:17.712 +02:00 [INF] Content root path: C:\Users\Gorent\source\repos\Andile BE\
+2024-03-25 23:29:18.371 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2024-03-25 23:29:19.613 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+2024-03-25 23:29:19.625 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/_vs/browserLink - -
+2024-03-25 23:29:19.677 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 50.6263ms
+2024-03-25 23:29:19.716 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 1366.5327ms
+2024-03-25 23:29:19.797 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 171.3063ms
+2024-03-25 23:29:19.964 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2024-03-25 23:29:20.368 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 403.2319ms
+2024-03-25 23:29:57.677 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 23:29:57.706 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:29:57.728 +02:00 [WRN] Failed to determine the https port for redirect.
+2024-03-25 23:29:57.743 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:29:57.746 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:29:57.757 +02:00 [INF] HTTP GET /products responded 405 in 27.9815 ms
+2024-03-25 23:29:57.774 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 98.6876ms
+2024-03-25 23:29:57.784 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 23:29:57.789 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:29:57.790 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:29:57.792 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:29:57.794 +02:00 [INF] HTTP GET /products responded 405 in 4.0036 ms
+2024-03-25 23:29:57.799 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 15.4052ms
+2024-03-25 23:30:45.821 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 23:30:45.833 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:30:45.836 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:30:45.838 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:30:45.839 +02:00 [INF] HTTP GET /products responded 405 in 3.7092 ms
+2024-03-25 23:30:45.842 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 21.0486ms
+2024-03-25 23:32:09.534 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 23:32:09.545 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:32:09.550 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:32:09.552 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:32:09.556 +02:00 [INF] HTTP GET /products responded 405 in 6.0459 ms
+2024-03-25 23:32:09.573 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 39.4723ms
+2024-03-25 23:35:22.080 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products/all - -
+2024-03-25 23:35:22.092 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:35:22.095 +02:00 [INF] Executing endpoint 'Andile_BE.Controllers.ProductsController.GetAllProducts (Andile BE)'
+2024-03-25 23:35:22.158 +02:00 [INF] Route matched with {action = "GetAllProducts", controller = "Products"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[Andile_BE.Models.Product]] GetAllProducts() on controller Andile_BE.Controllers.ProductsController (Andile BE).
+2024-03-25 23:35:23.088 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Andile_BE.Models.Product, Andile BE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-03-25 23:35:23.141 +02:00 [INF] Executed action Andile_BE.Controllers.ProductsController.GetAllProducts (Andile BE) in 966.2518ms
+2024-03-25 23:35:23.147 +02:00 [INF] Executed endpoint 'Andile_BE.Controllers.ProductsController.GetAllProducts (Andile BE)'
+2024-03-25 23:35:23.149 +02:00 [INF] HTTP GET /products/all responded 200 in 1054.0059 ms
+2024-03-25 23:35:23.153 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products/all - - - 200 - application/json;+charset=utf-8 1073.2369ms
+2024-03-25 23:35:53.065 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 23:35:53.078 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:35:53.081 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:35:53.082 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:35:53.084 +02:00 [INF] HTTP GET /products responded 405 in 2.6827 ms
+2024-03-25 23:35:53.086 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 20.8109ms
+2024-03-25 23:35:53.107 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 23:35:53.108 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:35:53.123 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:35:53.124 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:35:53.126 +02:00 [INF] HTTP GET /products responded 405 in 3.6503 ms
+2024-03-25 23:35:53.129 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 22.1409ms
+2024-03-25 23:37:38.912 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 23:37:38.925 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:37:38.928 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:37:38.930 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:37:38.932 +02:00 [INF] HTTP GET /products responded 405 in 4.8444 ms
+2024-03-25 23:37:38.937 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 24.4587ms
+2024-03-25 23:37:40.851 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 23:37:40.854 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:37:40.857 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:37:40.860 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:37:40.862 +02:00 [INF] HTTP GET /products responded 405 in 5.4967 ms
+2024-03-25 23:37:40.866 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 14.6052ms
+2024-03-25 23:37:49.882 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 23:37:49.884 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:37:49.886 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:37:49.890 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:37:49.895 +02:00 [INF] HTTP GET /products responded 405 in 9.7742 ms
+2024-03-25 23:37:49.900 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 17.9493ms
+2024-03-25 23:37:49.905 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 23:37:49.909 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:37:49.911 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:37:49.913 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:37:49.916 +02:00 [INF] HTTP GET /products responded 405 in 4.6100 ms
+2024-03-25 23:37:49.926 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 21.2798ms
+2024-03-25 23:38:00.285 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 23:38:00.287 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:38:00.290 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:38:00.294 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:38:00.296 +02:00 [INF] HTTP GET /products responded 405 in 6.0742 ms
+2024-03-25 23:38:00.300 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 15.7505ms
+2024-03-25 23:38:07.932 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 23:38:07.934 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:38:07.937 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:38:07.940 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:38:07.943 +02:00 [INF] HTTP GET /products responded 405 in 5.9405 ms
+2024-03-25 23:38:07.947 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 15.4772ms
+2024-03-25 23:38:39.139 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 23:38:39.142 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:38:39.145 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:38:39.147 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:38:39.148 +02:00 [INF] HTTP GET /products responded 405 in 3.8116 ms
+2024-03-25 23:38:39.152 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 12.6503ms
+2024-03-25 23:38:39.163 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 23:38:39.164 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:38:39.166 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:38:39.168 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:38:39.171 +02:00 [INF] HTTP GET /products responded 405 in 5.0979 ms
+2024-03-25 23:38:39.175 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 12.7136ms
+2024-03-25 23:43:54.783 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products/all - -
+2024-03-25 23:43:54.787 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:43:54.788 +02:00 [INF] Executing endpoint 'Andile_BE.Controllers.ProductsController.GetAllProducts (Andile BE)'
+2024-03-25 23:43:54.791 +02:00 [INF] Route matched with {action = "GetAllProducts", controller = "Products"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[Andile_BE.Models.Product]] GetAllProducts() on controller Andile_BE.Controllers.ProductsController (Andile BE).
+2024-03-25 23:43:54.808 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Andile_BE.Models.Product, Andile BE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-03-25 23:43:54.811 +02:00 [INF] Executed action Andile_BE.Controllers.ProductsController.GetAllProducts (Andile BE) in 17.7575ms
+2024-03-25 23:43:54.813 +02:00 [INF] Executed endpoint 'Andile_BE.Controllers.ProductsController.GetAllProducts (Andile BE)'
+2024-03-25 23:43:54.815 +02:00 [INF] HTTP GET /products/all responded 200 in 26.6691 ms
+2024-03-25 23:43:54.817 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products/all - - - 200 - application/json;+charset=utf-8 34.2929ms
+2024-03-25 23:44:09.262 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/all - -
+2024-03-25 23:44:09.265 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:44:09.269 +02:00 [INF] HTTP GET /all responded 404 in 0.1712 ms
+2024-03-25 23:44:09.274 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/all - - - 404 0 - 12.2514ms
+2024-03-25 23:44:09.279 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/all - -
+2024-03-25 23:44:09.282 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:44:09.285 +02:00 [INF] HTTP GET /all responded 404 in 0.0292 ms
+2024-03-25 23:44:09.292 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/all - - - 404 0 - 12.9993ms
+2024-03-25 23:44:18.073 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/all - -
+2024-03-25 23:44:18.078 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:44:18.089 +02:00 [INF] HTTP GET /all responded 404 in 0.0407 ms
+2024-03-25 23:44:18.095 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/all - - - 404 0 - 21.4333ms
+2024-03-25 23:44:18.122 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/all - -
+2024-03-25 23:44:18.154 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:44:18.156 +02:00 [INF] HTTP GET /all responded 404 in 0.0239 ms
+2024-03-25 23:44:18.160 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/all - - - 404 0 - 37.9466ms
+2024-03-25 23:45:32.880 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 23:45:32.892 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:45:32.895 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:45:32.898 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:45:32.901 +02:00 [INF] HTTP GET /products responded 405 in 6.2882 ms
+2024-03-25 23:45:32.905 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 25.2867ms
+2024-03-25 23:45:42.844 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-25 23:45:42.846 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:45:42.849 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:45:42.853 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-25 23:45:42.854 +02:00 [INF] HTTP GET /products responded 405 in 5.4681 ms
+2024-03-25 23:45:42.857 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 405 0 - 13.5677ms
+2024-03-25 23:46:12.881 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products/all - -
+2024-03-25 23:46:12.900 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:46:12.903 +02:00 [INF] Executing endpoint 'Andile_BE.Controllers.ProductsController.GetAllProducts (Andile BE)'
+2024-03-25 23:46:12.907 +02:00 [INF] Route matched with {action = "GetAllProducts", controller = "Products"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[Andile_BE.Models.Product]] GetAllProducts() on controller Andile_BE.Controllers.ProductsController (Andile BE).
+2024-03-25 23:46:12.930 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Andile_BE.Models.Product, Andile BE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-03-25 23:46:12.941 +02:00 [INF] Executed action Andile_BE.Controllers.ProductsController.GetAllProducts (Andile BE) in 29.9075ms
+2024-03-25 23:46:12.948 +02:00 [INF] Executed endpoint 'Andile_BE.Controllers.ProductsController.GetAllProducts (Andile BE)'
+2024-03-25 23:46:12.951 +02:00 [INF] HTTP GET /products/all responded 200 in 48.2062 ms
+2024-03-25 23:46:12.957 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products/all - - - 200 - application/json;+charset=utf-8 75.8448ms
+2024-03-25 23:47:40.593 +02:00 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:5000/remove-products - -
+2024-03-25 23:47:40.597 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:47:40.603 +02:00 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:5000/remove-products - - - 204 - - 9.2980ms
+2024-03-25 23:47:40.638 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/remove-products application/json 8
+2024-03-25 23:47:40.640 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:47:40.644 +02:00 [INF] HTTP POST /remove-products responded 404 in 0.1258 ms
+2024-03-25 23:47:40.649 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/remove-products application/json 8 - 404 0 - 11.0511ms
+2024-03-25 23:48:13.403 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products/all - -
+2024-03-25 23:48:13.405 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:48:13.422 +02:00 [INF] Executing endpoint 'Andile_BE.Controllers.ProductsController.GetAllProducts (Andile BE)'
+2024-03-25 23:48:13.426 +02:00 [INF] Route matched with {action = "GetAllProducts", controller = "Products"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[Andile_BE.Models.Product]] GetAllProducts() on controller Andile_BE.Controllers.ProductsController (Andile BE).
+2024-03-25 23:48:13.439 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Andile_BE.Models.Product, Andile BE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-03-25 23:48:13.445 +02:00 [INF] Executed action Andile_BE.Controllers.ProductsController.GetAllProducts (Andile BE) in 12.4495ms
+2024-03-25 23:48:13.449 +02:00 [INF] Executed endpoint 'Andile_BE.Controllers.ProductsController.GetAllProducts (Andile BE)'
+2024-03-25 23:48:13.452 +02:00 [INF] HTTP GET /products/all responded 200 in 30.4067 ms
+2024-03-25 23:48:13.458 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products/all - - - 200 - application/json;+charset=utf-8 58.0656ms
+2024-03-25 23:50:13.872 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products/all - -
+2024-03-25 23:50:13.892 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:50:13.894 +02:00 [INF] Executing endpoint 'Andile_BE.Controllers.ProductsController.GetAllProducts (Andile BE)'
+2024-03-25 23:50:13.896 +02:00 [INF] Route matched with {action = "GetAllProducts", controller = "Products"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[Andile_BE.Models.Product]] GetAllProducts() on controller Andile_BE.Controllers.ProductsController (Andile BE).
+2024-03-25 23:50:13.902 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Andile_BE.Models.Product, Andile BE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-03-25 23:50:13.904 +02:00 [INF] Executed action Andile_BE.Controllers.ProductsController.GetAllProducts (Andile BE) in 5.1129ms
+2024-03-25 23:50:13.907 +02:00 [INF] Executed endpoint 'Andile_BE.Controllers.ProductsController.GetAllProducts (Andile BE)'
+2024-03-25 23:50:13.909 +02:00 [INF] HTTP GET /products/all responded 200 in 14.5940 ms
+2024-03-25 23:50:13.912 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products/all - - - 200 - application/json;+charset=utf-8 40.1289ms
+2024-03-25 23:50:52.861 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products/all - -
+2024-03-25 23:50:52.873 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:50:52.877 +02:00 [INF] Executing endpoint 'Andile_BE.Controllers.ProductsController.GetAllProducts (Andile BE)'
+2024-03-25 23:50:52.879 +02:00 [INF] Route matched with {action = "GetAllProducts", controller = "Products"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[Andile_BE.Models.Product]] GetAllProducts() on controller Andile_BE.Controllers.ProductsController (Andile BE).
+2024-03-25 23:50:52.885 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Andile_BE.Models.Product, Andile BE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-03-25 23:50:52.889 +02:00 [INF] Executed action Andile_BE.Controllers.ProductsController.GetAllProducts (Andile BE) in 6.7693ms
+2024-03-25 23:50:52.892 +02:00 [INF] Executed endpoint 'Andile_BE.Controllers.ProductsController.GetAllProducts (Andile BE)'
+2024-03-25 23:50:52.895 +02:00 [INF] HTTP GET /products/all responded 200 in 18.3138 ms
+2024-03-25 23:50:52.898 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products/all - - - 200 - application/json;+charset=utf-8 37.2703ms
+2024-03-25 23:55:42.364 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/orders - -
+2024-03-25 23:55:42.438 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:55:42.440 +02:00 [INF] HTTP GET /orders responded 404 in 0.0217 ms
+2024-03-25 23:55:42.442 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/orders - - - 404 0 - 78.3689ms
+2024-03-25 23:55:42.517 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/orders - -
+2024-03-25 23:55:42.522 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:55:42.526 +02:00 [INF] HTTP GET /orders responded 404 in 0.0234 ms
+2024-03-25 23:55:42.529 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/orders - - - 404 0 - 11.0718ms
+2024-03-25 23:55:59.251 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products/all - -
+2024-03-25 23:55:59.252 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:55:59.254 +02:00 [INF] Executing endpoint 'Andile_BE.Controllers.ProductsController.GetAllProducts (Andile BE)'
+2024-03-25 23:55:59.256 +02:00 [INF] Route matched with {action = "GetAllProducts", controller = "Products"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[Andile_BE.Models.Product]] GetAllProducts() on controller Andile_BE.Controllers.ProductsController (Andile BE).
+2024-03-25 23:55:59.267 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Andile_BE.Models.Product, Andile BE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-03-25 23:55:59.269 +02:00 [INF] Executed action Andile_BE.Controllers.ProductsController.GetAllProducts (Andile BE) in 10.6644ms
+2024-03-25 23:55:59.271 +02:00 [INF] Executed endpoint 'Andile_BE.Controllers.ProductsController.GetAllProducts (Andile BE)'
+2024-03-25 23:55:59.274 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products/all - -
+2024-03-25 23:55:59.275 +02:00 [INF] HTTP GET /products/all responded 200 in 20.7284 ms
+2024-03-25 23:55:59.275 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:55:59.277 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products/all - - - 200 - application/json;+charset=utf-8 26.1842ms
+2024-03-25 23:55:59.278 +02:00 [INF] Executing endpoint 'Andile_BE.Controllers.ProductsController.GetAllProducts (Andile BE)'
+2024-03-25 23:55:59.279 +02:00 [INF] Route matched with {action = "GetAllProducts", controller = "Products"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[Andile_BE.Models.Product]] GetAllProducts() on controller Andile_BE.Controllers.ProductsController (Andile BE).
+2024-03-25 23:55:59.282 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Andile_BE.Models.Product, Andile BE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-03-25 23:55:59.284 +02:00 [INF] Executed action Andile_BE.Controllers.ProductsController.GetAllProducts (Andile BE) in 2.9192ms
+2024-03-25 23:55:59.285 +02:00 [INF] Executed endpoint 'Andile_BE.Controllers.ProductsController.GetAllProducts (Andile BE)'
+2024-03-25 23:55:59.287 +02:00 [INF] HTTP GET /products/all responded 200 in 8.7391 ms
+2024-03-25 23:55:59.290 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products/all - - - 200 - application/json;+charset=utf-8 15.7751ms
+2024-03-25 23:56:09.679 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/orders - -
+2024-03-25 23:56:09.683 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:56:09.685 +02:00 [INF] HTTP GET /orders responded 404 in 0.0348 ms
+2024-03-25 23:56:09.691 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/orders - - - 404 0 - 12.1050ms
+2024-03-25 23:56:09.695 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/orders - -
+2024-03-25 23:56:09.698 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:56:09.700 +02:00 [INF] HTTP GET /orders responded 404 in 0.0214 ms
+2024-03-25 23:56:09.706 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/orders - - - 404 0 - 11.5173ms
+2024-03-25 23:57:59.180 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/orders - -
+2024-03-25 23:57:59.193 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:57:59.195 +02:00 [INF] HTTP GET /orders responded 404 in 0.0263 ms
+2024-03-25 23:57:59.200 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/orders - - - 404 0 - 19.7386ms
+2024-03-25 23:58:38.183 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/orders - -
+2024-03-25 23:58:38.199 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:58:38.201 +02:00 [INF] HTTP GET /orders responded 404 in 0.0525 ms
+2024-03-25 23:58:38.206 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/orders - - - 404 0 - 22.9643ms
+2024-03-25 23:59:32.522 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/orders - -
+2024-03-25 23:59:32.539 +02:00 [INF] CORS policy execution successful.
+2024-03-25 23:59:32.541 +02:00 [INF] HTTP GET /orders responded 404 in 0.0208 ms
+2024-03-25 23:59:32.547 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/orders - - - 404 0 - 24.9764ms

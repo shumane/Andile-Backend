@@ -1,0 +1,121 @@
+2024-03-22 06:58:46.566 +02:00 [INF] Now listening on: https://localhost:7211
+2024-03-22 06:58:46.752 +02:00 [INF] Now listening on: http://localhost:5063
+2024-03-22 06:58:46.772 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-22 06:58:46.777 +02:00 [INF] Hosting environment: Development
+2024-03-22 06:58:46.783 +02:00 [INF] Content root path: C:\Users\Gorent\source\repos\Andile BE\
+2024-03-22 06:58:47.686 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7211/swagger/index.html - -
+2024-03-22 06:58:49.209 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7211/_framework/aspnetcore-browser-refresh.js - -
+2024-03-22 06:58:49.210 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7211/_vs/browserLink - -
+2024-03-22 06:58:49.241 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7211/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 17.9780ms
+2024-03-22 06:58:49.241 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7211/swagger/index.html - - - 200 - text/html;charset=utf-8 1560.7764ms
+2024-03-22 06:58:49.294 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7211/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 84.8042ms
+2024-03-22 06:58:49.510 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7211/swagger/v1/swagger.json - -
+2024-03-22 06:58:49.908 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7211/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 398.3587ms
+2024-03-22 06:59:35.390 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7211/api/Customers application/json 68
+2024-03-22 06:59:35.409 +02:00 [INF] Executing endpoint 'Andile_BE.Controllers.CustomersController.CreateCustomer (Andile BE)'
+2024-03-22 06:59:35.450 +02:00 [INF] Route matched with {action = "CreateCustomer", controller = "Customers"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateCustomer(Andile_BE.Models.Customer) on controller Andile_BE.Controllers.CustomersController (Andile BE).
+2024-03-22 06:59:44.102 +02:00 [INF] Donald was created successfully
+2024-03-22 06:59:46.124 +02:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2024-03-22 06:59:46.145 +02:00 [INF] Executed action Andile_BE.Controllers.CustomersController.CreateCustomer (Andile BE) in 10682.6899ms
+2024-03-22 06:59:46.152 +02:00 [INF] Executed endpoint 'Andile_BE.Controllers.CustomersController.CreateCustomer (Andile BE)'
+2024-03-22 06:59:46.158 +02:00 [INF] HTTP POST /api/Customers responded 200 in 10748.2087 ms
+2024-03-22 06:59:46.162 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7211/api/Customers application/json 68 - 200 0 - 10772.1905ms
+2024-03-22 07:00:00.917 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7211/api/Customers application/json 68
+2024-03-22 07:00:00.932 +02:00 [INF] Executing endpoint 'Andile_BE.Controllers.CustomersController.CreateCustomer (Andile BE)'
+2024-03-22 07:00:00.934 +02:00 [INF] Route matched with {action = "CreateCustomer", controller = "Customers"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateCustomer(Andile_BE.Models.Customer) on controller Andile_BE.Controllers.CustomersController (Andile BE).
+2024-03-22 07:00:07.556 +02:00 [INF] Ronald was created successfully
+2024-03-22 07:00:08.758 +02:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2024-03-22 07:00:08.760 +02:00 [INF] Executed action Andile_BE.Controllers.CustomersController.CreateCustomer (Andile BE) in 7824.4281ms
+2024-03-22 07:00:08.764 +02:00 [INF] Executed endpoint 'Andile_BE.Controllers.CustomersController.CreateCustomer (Andile BE)'
+2024-03-22 07:00:08.767 +02:00 [INF] HTTP POST /api/Customers responded 200 in 7834.9958 ms
+2024-03-22 07:00:08.771 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7211/api/Customers application/json 68 - 200 0 - 7854.0079ms
+2024-03-22 07:00:26.055 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7211/api/Customers application/json 68
+2024-03-22 07:00:26.056 +02:00 [INF] Executing endpoint 'Andile_BE.Controllers.CustomersController.CreateCustomer (Andile BE)'
+2024-03-22 07:00:26.058 +02:00 [INF] Route matched with {action = "CreateCustomer", controller = "Customers"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateCustomer(Andile_BE.Models.Customer) on controller Andile_BE.Controllers.CustomersController (Andile BE).
+2024-03-22 07:00:32.106 +02:00 [INF] Akhona was created successfully
+2024-03-22 07:00:33.071 +02:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2024-03-22 07:00:33.074 +02:00 [INF] Executed action Andile_BE.Controllers.CustomersController.CreateCustomer (Andile BE) in 7014.3032ms
+2024-03-22 07:00:33.076 +02:00 [INF] Executed endpoint 'Andile_BE.Controllers.CustomersController.CreateCustomer (Andile BE)'
+2024-03-22 07:00:33.078 +02:00 [INF] HTTP POST /api/Customers responded 200 in 7021.9880 ms
+2024-03-22 07:00:33.081 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7211/api/Customers application/json 68 - 200 0 - 7026.0760ms
+2024-03-22 07:01:05.153 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7211/api/Customers application/json 68
+2024-03-22 07:01:05.172 +02:00 [INF] Executing endpoint 'Andile_BE.Controllers.CustomersController.CreateCustomer (Andile BE)'
+2024-03-22 07:01:05.176 +02:00 [INF] Route matched with {action = "CreateCustomer", controller = "Customers"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateCustomer(Andile_BE.Models.Customer) on controller Andile_BE.Controllers.CustomersController (Andile BE).
+2024-03-22 07:01:12.320 +02:00 [INF] Ashwin was created successfully
+2024-03-22 07:01:13.252 +02:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2024-03-22 07:01:13.254 +02:00 [INF] Executed action Andile_BE.Controllers.CustomersController.CreateCustomer (Andile BE) in 8074.3444ms
+2024-03-22 07:01:13.257 +02:00 [INF] Executed endpoint 'Andile_BE.Controllers.CustomersController.CreateCustomer (Andile BE)'
+2024-03-22 07:01:13.260 +02:00 [INF] HTTP POST /api/Customers responded 200 in 8087.8390 ms
+2024-03-22 07:01:13.263 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7211/api/Customers application/json 68 - 200 0 - 8110.1681ms
+2024-03-22 07:03:36.999 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7211/api/Orders/001 - -
+2024-03-22 07:03:37.011 +02:00 [INF] Executing endpoint 'Andile_BE.Controllers.OrdersController.GetOrderById (Andile BE)'
+2024-03-22 07:03:37.021 +02:00 [INF] Route matched with {action = "GetOrderById", controller = "Orders"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[Andile_BE.Models.Order] GetOrderById(System.String) on controller Andile_BE.Controllers.OrdersController (Andile BE).
+2024-03-22 07:03:37.071 +02:00 [INF] Executing OkObjectResult, writing value of type 'Andile_BE.Models.Order'.
+2024-03-22 07:03:37.097 +02:00 [INF] Executed action Andile_BE.Controllers.OrdersController.GetOrderById (Andile BE) in 74.5693ms
+2024-03-22 07:03:37.102 +02:00 [INF] Executed endpoint 'Andile_BE.Controllers.OrdersController.GetOrderById (Andile BE)'
+2024-03-22 07:03:37.103 +02:00 [INF] HTTP GET /api/Orders/001 responded 200 in 91.7425 ms
+2024-03-22 07:03:37.105 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7211/api/Orders/001 - - - 200 - application/json;+charset=utf-8 106.5014ms
+2024-03-22 07:03:53.349 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7211/api/Orders/03 - -
+2024-03-22 07:03:53.350 +02:00 [INF] Executing endpoint 'Andile_BE.Controllers.OrdersController.GetOrderById (Andile BE)'
+2024-03-22 07:03:53.351 +02:00 [INF] Route matched with {action = "GetOrderById", controller = "Orders"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[Andile_BE.Models.Order] GetOrderById(System.String) on controller Andile_BE.Controllers.OrdersController (Andile BE).
+2024-03-22 07:03:53.366 +02:00 [INF] Executing OkObjectResult, writing value of type 'Andile_BE.Models.Order'.
+2024-03-22 07:03:53.367 +02:00 [INF] Executed action Andile_BE.Controllers.OrdersController.GetOrderById (Andile BE) in 13.9695ms
+2024-03-22 07:03:53.368 +02:00 [INF] Executed endpoint 'Andile_BE.Controllers.OrdersController.GetOrderById (Andile BE)'
+2024-03-22 07:03:53.369 +02:00 [INF] HTTP GET /api/Orders/03 responded 200 in 19.2987 ms
+2024-03-22 07:03:53.370 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7211/api/Orders/03 - - - 200 - application/json;+charset=utf-8 21.5074ms
+2024-03-22 12:47:06.661 +02:00 [INF] Now listening on: https://localhost:7211
+2024-03-22 12:47:06.739 +02:00 [INF] Now listening on: http://localhost:5063
+2024-03-22 12:47:06.746 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-22 12:47:06.749 +02:00 [INF] Hosting environment: Development
+2024-03-22 12:47:06.750 +02:00 [INF] Content root path: C:\Users\Gorent\source\repos\Andile BE\
+2024-03-22 12:47:07.418 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7211/swagger/index.html - -
+2024-03-22 12:47:08.179 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7211/_vs/browserLink - -
+2024-03-22 12:47:08.179 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7211/_framework/aspnetcore-browser-refresh.js - -
+2024-03-22 12:47:08.209 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7211/swagger/index.html - - - 200 - text/html;charset=utf-8 799.8938ms
+2024-03-22 12:47:08.209 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7211/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 27.9990ms
+2024-03-22 12:47:08.292 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7211/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 112.3000ms
+2024-03-22 12:47:08.405 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7211/swagger/v1/swagger.json - -
+2024-03-22 12:47:08.562 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7211/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 157.6824ms
+2024-03-22 12:51:48.190 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7211/api/Products/010 - -
+2024-03-22 12:51:48.219 +02:00 [INF] Executing endpoint 'Andile_BE.Controllers.ProductsController.GetProductById (Andile BE)'
+2024-03-22 12:51:48.272 +02:00 [INF] Route matched with {action = "GetProductById", controller = "Products"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[Andile_BE.Models.Product] GetProductById(System.String) on controller Andile_BE.Controllers.ProductsController (Andile BE).
+2024-03-22 12:51:49.017 +02:00 [ERR] An error occurred while getting the product with id: 010=> ExecuteReader requires an open and available Connection. The connection's current state is closed.
+2024-03-22 12:52:16.166 +02:00 [INF] Now listening on: https://localhost:7211
+2024-03-22 12:52:16.291 +02:00 [INF] Now listening on: http://localhost:5063
+2024-03-22 12:52:16.341 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-22 12:52:16.348 +02:00 [INF] Hosting environment: Development
+2024-03-22 12:52:16.350 +02:00 [INF] Content root path: C:\Users\Gorent\source\repos\Andile BE\
+2024-03-22 12:52:17.116 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7211/swagger/index.html - -
+2024-03-22 12:52:18.458 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7211/_vs/browserLink - -
+2024-03-22 12:52:18.458 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7211/_framework/aspnetcore-browser-refresh.js - -
+2024-03-22 12:52:18.553 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7211/swagger/index.html - - - 200 - text/html;charset=utf-8 1408.0059ms
+2024-03-22 12:52:18.558 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7211/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 100.1258ms
+2024-03-22 12:52:18.609 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7211/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 151.2608ms
+2024-03-22 12:52:18.915 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7211/swagger/v1/swagger.json - -
+2024-03-22 12:52:19.449 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7211/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 533.9113ms
+2024-03-22 12:52:28.501 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7211/api/Products/010 - -
+2024-03-22 12:52:28.536 +02:00 [INF] Executing endpoint 'Andile_BE.Controllers.ProductsController.GetProductById (Andile BE)'
+2024-03-22 12:52:28.642 +02:00 [INF] Route matched with {action = "GetProductById", controller = "Products"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[Andile_BE.Models.Product] GetProductById(System.String) on controller Andile_BE.Controllers.ProductsController (Andile BE).
+2024-03-22 12:52:29.997 +02:00 [INF] Product retrieved successfully
+2024-03-22 12:52:30.018 +02:00 [INF] Executing OkObjectResult, writing value of type 'Andile_BE.Models.Product'.
+2024-03-22 12:52:30.061 +02:00 [INF] Executed action Andile_BE.Controllers.ProductsController.GetProductById (Andile BE) in 1404.8132ms
+2024-03-22 12:52:30.075 +02:00 [INF] Executed endpoint 'Andile_BE.Controllers.ProductsController.GetProductById (Andile BE)'
+2024-03-22 12:52:30.083 +02:00 [INF] HTTP GET /api/Products/010 responded 200 in 1559.4402 ms
+2024-03-22 12:52:30.091 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7211/api/Products/010 - - - 200 - application/json;+charset=utf-8 1590.8287ms
+2024-03-22 12:53:13.976 +02:00 [INF] Request starting HTTP/2 PUT https://localhost:7211/api/Products/010 application/json 82
+2024-03-22 12:53:13.991 +02:00 [INF] Executing endpoint 'Andile_BE.Controllers.ProductsController.UpdateProduct (Andile BE)'
+2024-03-22 12:53:13.998 +02:00 [INF] Route matched with {action = "UpdateProduct", controller = "Products"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult UpdateProduct(System.String, Andile_BE.Models.Product) on controller Andile_BE.Controllers.ProductsController (Andile BE).
+2024-03-22 12:53:14.275 +02:00 [ERR] An error occurred while updating string=> ExecuteNonQuery requires an open and available Connection. The connection's current state is closed.
+2024-03-22 15:07:46.879 +02:00 [INF] Now listening on: https://localhost:7211
+2024-03-22 15:07:46.961 +02:00 [INF] Now listening on: http://localhost:5063
+2024-03-22 15:07:46.972 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-22 15:07:46.976 +02:00 [INF] Hosting environment: Development
+2024-03-22 15:07:46.979 +02:00 [INF] Content root path: C:\Users\Gorent\source\repos\Andile BE\
+2024-03-22 15:07:48.172 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7211/swagger/index.html - -
+2024-03-22 15:07:50.273 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7211/_framework/aspnetcore-browser-refresh.js - -
+2024-03-22 15:07:50.286 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7211/_vs/browserLink - -
+2024-03-22 15:07:50.314 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7211/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 39.6564ms
+2024-03-22 15:07:50.346 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7211/swagger/index.html - - - 200 - text/html;charset=utf-8 2195.7431ms
+2024-03-22 15:07:50.481 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7211/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 194.7974ms
+2024-03-22 15:07:50.624 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7211/swagger/v1/swagger.json - -
+2024-03-22 15:07:51.026 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7211/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 401.6229ms

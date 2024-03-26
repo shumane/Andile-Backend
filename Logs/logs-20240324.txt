@@ -1,0 +1,51 @@
+2024-03-24 14:38:25.955 +02:00 [INF] Now listening on: https://localhost:7211
+2024-03-24 14:38:26.393 +02:00 [INF] Now listening on: http://localhost:5063
+2024-03-24 14:38:27.252 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-24 14:38:27.783 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7211/swagger/index.html - -
+2024-03-24 14:38:27.936 +02:00 [INF] Hosting environment: Development
+2024-03-24 14:38:28.842 +02:00 [INF] Content root path: C:\Users\Gorent\source\repos\Andile BE\
+2024-03-24 14:38:32.481 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7211/_framework/aspnetcore-browser-refresh.js - -
+2024-03-24 14:38:32.481 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7211/_vs/browserLink - -
+2024-03-24 14:38:32.519 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7211/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 32.6815ms
+2024-03-24 14:38:32.792 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7211/swagger/index.html - - - 200 - text/html;charset=utf-8 5046.7973ms
+2024-03-24 14:38:32.927 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7211/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 445.5746ms
+2024-03-24 14:38:33.211 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7211/swagger/v1/swagger.json - -
+2024-03-24 14:38:33.994 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7211/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 783.3689ms
+2024-03-24 15:48:40.744 +02:00 [INF] Now listening on: http://localhost:5000
+2024-03-24 15:48:40.801 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-24 15:48:40.804 +02:00 [INF] Hosting environment: Development
+2024-03-24 15:48:40.807 +02:00 [INF] Content root path: C:\Users\Gorent\source\repos\Andile BE\
+2024-03-24 15:49:29.772 +02:00 [INF] Now listening on: http://localhost:5000
+2024-03-24 15:49:29.833 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-24 15:49:29.837 +02:00 [INF] Hosting environment: Development
+2024-03-24 15:49:29.839 +02:00 [INF] Content root path: C:\Users\Gorent\source\repos\Andile BE\
+2024-03-24 15:51:10.129 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/ - -
+2024-03-24 15:51:10.275 +02:00 [INF] HTTP GET / responded 307 in 11.0033 ms
+2024-03-24 15:51:10.305 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/ - - - 307 0 - 182.1487ms
+2024-03-24 17:50:53.141 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-24 17:50:53.184 +02:00 [INF] HTTP GET /products responded 307 in 0.5537 ms
+2024-03-24 17:50:53.188 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 307 0 - 48.1256ms
+2024-03-24 17:50:53.200 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-24 17:50:53.201 +02:00 [INF] HTTP GET /products responded 307 in 0.0120 ms
+2024-03-24 17:50:53.203 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 307 0 - 3.2384ms
+2024-03-24 17:55:01.080 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-24 17:55:01.083 +02:00 [INF] HTTP GET /products responded 307 in 0.0172 ms
+2024-03-24 17:55:01.086 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 307 0 - 13.2479ms
+2024-03-24 17:55:01.087 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-24 17:55:01.089 +02:00 [INF] HTTP GET /products responded 307 in 0.0173 ms
+2024-03-24 17:55:01.091 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 307 0 - 3.4429ms
+2024-03-24 17:56:03.074 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-24 17:56:03.091 +02:00 [INF] HTTP GET /products responded 307 in 0.0209 ms
+2024-03-24 17:56:03.096 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 307 0 - 21.6976ms
+2024-03-24 17:56:03.097 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-24 17:56:03.098 +02:00 [INF] HTTP GET /products responded 307 in 0.0102 ms
+2024-03-24 17:56:03.100 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 307 0 - 2.5720ms
+2024-03-24 17:58:25.096 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-24 17:58:25.120 +02:00 [INF] HTTP GET /products responded 307 in 0.0492 ms
+2024-03-24 17:58:25.122 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 307 0 - 26.3498ms
+2024-03-24 18:13:37.983 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-24 18:13:37.997 +02:00 [INF] HTTP GET /products responded 307 in 0.0420 ms
+2024-03-24 18:13:38.001 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 307 0 - 17.6666ms
+2024-03-24 18:13:38.015 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/products - -
+2024-03-24 18:13:38.017 +02:00 [INF] HTTP GET /products responded 307 in 0.0308 ms
+2024-03-24 18:13:38.022 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/products - - - 307 0 - 7.8180ms
